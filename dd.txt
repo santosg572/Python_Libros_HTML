@@ -1,0 +1,5 @@
+/Users/santosg/Python_Libros_jun2822/dd/dd/d1.txt
+/Users/santosg/Python_Libros_jun2822/dd/dd/d2/d21.txt
+/Users/santosg/Python_Libros_jun2822/dd/dd/d2/d3/d31.txt
+/Users/santosg/Python_Libros_jun2822/dd/dd/d2/d3/d32.txt
+/Users/santosg/Python_Libros_jun2822/dd/dd/d2/d3/d4/d41.txt
