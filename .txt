@@ -1,4 +1,4 @@
-./:
+.:
 arg.sh
 argumen.py
 ART_ene2323.txt
@@ -28,16 +28,7 @@ sube_git.sh
 texto_punto.py
 
 ./dd:
-dd2
-t1.txt
+dd
 
-./dd/dd2:
-dd3
-dd4
-t11.txt
-t12.txt
-
-./dd/dd2/dd3:
-
-./dd/dd2/dd4:
-t41.txt
+./dd/dd:
+d1.txt

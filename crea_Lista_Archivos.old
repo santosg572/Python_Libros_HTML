@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import sys
-import os
 
 nombre = sys.argv[1]
 nombreOUT = nombre+'_O.txt'
@@ -18,38 +17,9 @@ f = open(nombre,"r")
 lines = f.readlines()
 
 nl = len(lines)
-print(nl)
 
-k = 0
-ss = lines[0]
-ss = ss.replace('\n','')
-nss = len(ss)
-cc = ss[nss-1]
-
-if cc != ':':
-  mal = '''
-        -------------- FATAL ERROR -------------------
-        '''
-  print('bien', k)
-else:
-  k = 1
-  pat = ss[:nss-1]+'/'
-  while k < nl:
-    ss = lines[k]
-    ss = ss.replace('\n','')
-    nss = len(ss)
-    if nss > 0:
-      cc = ss[nss-1]
-      if cc == ':':
-        pat =ss[:nss-1]+'/'
-      else:
-        file = pat+ss
-        if os.path.isfile(file):
-          print(file)
-    k = k+1
-
-
-'''
+pat = lines[0]
+pat = pat.replace('\n','')
 pat = pat + '/'
 
 print(pat)
@@ -76,4 +46,3 @@ f.close()
 fo.close()
 
 
-'''
