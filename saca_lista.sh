@@ -2,8 +2,13 @@
 
 echo $#		# numero de argumentos recibidos
 
-pat=$1
-file=$2
+dos=2
 
-ls -1R ${pat} > "${file}.txt"
-
+if [ $# -eq $dos ]
+then 
+  pat=$1
+  file=$2
+  ls -1R ${pat} > "${file}.txt"
+else
+  echo "utiliza dos parametros: directorio, nombre archivo escritura"
+fi
