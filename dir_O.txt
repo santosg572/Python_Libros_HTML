@@ -1,9 +1,3 @@
-2
-----------------------------------------------------------
-procesando el archivo= dir_libros.txt
-archivo de salidadir_libros_O.txt
-----------------------------------------------------------
-31
 ../Downloads/Libros_TODOS_DRIVE/Agentes/978-3-030-01713-2.pdf
 ../Downloads/Libros_TODOS_DRIVE/Agricultura/2023_February_Recetario_Legumbres_AA_MX.pdf
 ../Downloads/Libros_TODOS_DRIVE/Agricultura/978-3-031-15568-0(1).pdf

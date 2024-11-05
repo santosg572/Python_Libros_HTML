@@ -18,7 +18,7 @@ if nl == 2:
   print('----------------------------------------------------------')
 
   f = open(nombre,"r")
-
+  fo = open(nombreOUT, 'w')
   lines = f.readlines()
 
   nl = len(lines)
@@ -50,9 +50,12 @@ if nl == 2:
           file = pat+ss
           if os.path.isfile(file):
             print(file)
+            fo.write(file+'\n')
       k = k+1
 else:
   print("utiliza un parametro, nombre de archivo a procesar")
+
+fo.close()
 
 
 
