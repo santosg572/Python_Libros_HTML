@@ -22,7 +22,7 @@ if nl == 2:
   lines = f.readlines()
 
   nl = len(lines)
-  print(nl)
+  print('numero de lineas leidas: ', nl)
 
   k = 0
   ss = lines[0]
@@ -30,6 +30,7 @@ if nl == 2:
   nss = len(ss)
   cc = ss[nss-1]
 
+  print('valor del primer cc: ', cc)
   if cc != ':':
     mal = '''
         -------------- FATAL ERROR -------------------

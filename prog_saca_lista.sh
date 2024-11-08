@@ -4,7 +4,11 @@ python saca_pat_de_RRR_cuarto.py > tempo
 
 dd=$(cat tempo)
 
-echo $dd
+echo
+echo
+echo " path para sacar los archivos: "$dd 
+echo
+echo
 
 ./saca_lista.sh $dd "R_cuarto"
 
