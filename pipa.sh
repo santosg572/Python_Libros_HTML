@@ -1,11 +1,11 @@
 #!/bin/bash
 
-pat="/Volumes/LUPITA"
+pat="../Desktop/Libros_TODOS_DRIVE/Linux/"
 
-file="Libros_feb0122"
+file="Linux"
 
 ./saca_lista.sh "${pat}" "${file}"
 
-python crea_lista_Archivos.py "${file}"
+python crea_Lista_Archivos.py "${file}"
 
 python creaHTML.py "${file}_O"
