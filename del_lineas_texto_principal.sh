@@ -1,38 +1,48 @@
 #!/bin/bash
 
-i1="\/Users\/santosg\/webGL_Ejemplos_jun0424"
-i2="\/Users\/santosg\/ubuntu22_AFNI_mar2524"
-i3="\/Users\/santosg\/spm12"
-i4="\/Users\/santosg\/miniconda3"
-i5="\/Users\/santosg\/eclipse"
-i6="\/Users\/santosg\/andysbrainbook"
-i7="\/Users\/santosg\/VirtualBox"
-i8="\/Users\/santosg\/Resp_may0721"
-i9="\/Users\/santosg\/Resp_Python_Tkinter"
-i10="\/Users\/santosg\/PythonResp"
-i11="\/Users\/santosg\/OpenGL_Ejemplos"
-i12="\/Users\/santosg\/NetBeansProjects"
-i13="\/Users\/santosg\/Library"
-i14="\/Users\/santosg\/Jmartinez_BIDS_oct0424"
-i15="\/Users\/santosg\/Downloads"
-i16="\/Users\/santosg\/Pictures"
-i17="\/Users\/santosg\/Music"
-i18="\/Users\/santosg\/Desktop\/TODO_ene0423"
-i19="\/Users\/santosg\/Documents"
-i20="\/Users\/santosg\/Javier_Castilla_INB"
-i21="\/Users\/santosg\/Desktop\/Visual Studio Code.app"
-i22="\/Users\/santosg\/Desktop\/Resp_TODO_may1424"
-i23="\/Users\/santosg\/Desktop\/Proyectos_mar2223_V2"
-i24="\/Users\/santosg\/Python\/Prog-Python"
-i25="\/Users\/santosg\/PHP_OpenGL"
-i26="\/Users\/santosg\/FSL_Curso_2023"
-i27="\/Users\/santosg\/Flanker_task"
-i28="\/Users\/santosg\/Macaque_Monkeys_Data_Sets"
-i29="\/Users\/santosg\/Desktop\/ImageJ.app"
-i30="\/Users\/santosg\/FSL_Flanker_task"
+python que_directorios_hay.py directorio_oficina
 
+ii=("\/Users\/santosg\/webGL_Ejemplos_jun0424"
+"\/Users\/santosg\/ubuntu22_AFNI_mar2524"
+"\/Users\/santosg\/spm12"
+"\/Users\/santosg\/miniconda3"
+"\/Users\/santosg\/eclipse"
+"\/Users\/santosg\/andysbrainbook"
+"\/Users\/santosg\/VirtualBox"
+"\/Users\/santosg\/Resp_may0721"
+"\/Users\/santosg\/Resp_Python_Tkinter"
+"\/Users\/santosg\/PythonResp"
+"\/Users\/santosg\/OpenGL_Ejemplos"
+"\/Users\/santosg\/NetBeansProjects"
+"\/Users\/santosg\/Library"
+"\/Users\/santosg\/Jmartinez_BIDS_oct0424"
+"\/Users\/santosg\/Downloads"
+"\/Users\/santosg\/Pictures"
+"\/Users\/santosg\/Music"
+"\/Users\/santosg\/Desktop\/TODO_ene0423"
+"\/Users\/santosg\/Documents"
+"\/Users\/santosg\/Javier_Castilla_INB"
+"\/Users\/santosg\/Desktop\/Resp_TODO_may1424"
+"\/Users\/santosg\/Desktop\/Proyectos_mar2223_V2"
+"\/Users\/santosg\/Python\/Prog-Python"
+"\/Users\/santosg\/PHP_OpenGL"
+"\/Users\/santosg\/FSL_Curso_2023"
+"\/Users\/santosg\/Flanker_task"
+"\/Users\/santosg\/Macaque_Monkeys_Data_Sets"
+"\/Users\/santosg\/Desktop\/ImageJ.app"
+"\/Users\/santosg\/FSL_Flanker_task"
+"\/Users\/santosg\/Python"
+"\/Users\/santosg\/book_Beginning_Game_Development_Python_Pygame"
+"\/Users\/santosg\/The_Definitive_Guide_to_Java_Swing_3R_Codigo"
+"\/Users\/santosg\/Desktop\/beg-python-games-dev-2ed-master"
+"\/Users\/santosg\/Desktop\/Visual_Studio_Code.app"
+"\/Users\/santosg\/Desktop\/OpenGL_Libro_Datos"
+"\/Users\/santosg\/Desktop\/Cyberball_actualizada"
+"\/Users\/santosg\/AFNI\/AndysBrainBook"
+"\/Users\/santosg\/CUTE_Programas_ART_2021")
 
-./del_lineas_texto.sh ${i30}
-
-cat directorio_oficina_directorios.txt
-
+for str in ${ii[@]}; do
+  echo $str
+  ./del_lineas_texto.sh ${str}
+  cat directorio_oficina_directorios.txt
+done
