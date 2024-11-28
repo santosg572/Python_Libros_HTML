@@ -1,0 +1,4308 @@
+../Desktop/Libros_TODOS/PPP_libros/:
+../Desktop/Libros_TODOS/PPP_libros/:
+Parallel_Programming_libros
+partes
+Pattern_Recognition_Libros
+Perl_libros
+Permutacion_Estadistica_Libros
+Personal
+Photoshop
+PHP_Libros
+PIC_Microcontroller_in_C
+Plantas
+Polimeros_libros
+POO_libros
+Popfly
+Postgresql_libros
+Predictive_Modeling_Libros
+Probabilidad_libros
+Problemas_Inversos_libros
+Procesamiento_Paralelo
+Procesando_Imagenes_libros
+Procesando_Senales
+Procesos_Estocasticos_Libros
+Programacion_C
+Programacion_Dinamica_libros
+Programacion_Estocastica_libros
+Programacion_Funcional
+Programacion_Paralela_libros
+Programacion_paralelo
+Programming_Mobile_Web_BUENO
+Proteinas_libros
+Psicologia_Libros
+PsicoTerapia_Libros
+Psycologia_Libros
+PyQt
+Python_Data_Analysis_libros
+Python_Libros
+Python_Libros_feb0323
+
+../Desktop/Libros_TODOS/PPP_libros/Parallel_Programming_libros:
+Parallel_Programming.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/partes:
+bootstrap_scgn_v131.pdf
+c0001.pdf
+c00.pdf
+c233.pdf
+c2.pdf
+CSchpt3.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Pattern_Recognition_Libros:
+an_introduction_pattern_recognition_matlab_approach_2010.pdf
+a_probabilistic_theory_pattern_recognition_1996.pdf
+kernel methods for pattern analysis (2004).pdf
+pattern recognition (4th, 2008).pdf
+pattern recognition and machine learning (2007).pdf
+pattern recognition and machine learning solutions.pdf
+Pattern_Recognition_Machine_Learning Bishop.pdf
+Pattern_Recognition_Machine_Learning.pdf
+Pattern Theory - From Representation To Inference - U Grenander, M Miller (Oxford, 2007) Ww.pdf
+Pattern_Theory_Representation.pdf
+programming collective intelligence - building smart web 2.0 applications (2007).pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Perl_libros:
+2006_Book_BeginningWebDevelopmentWithPer.pdf
+Beginning_Perl.pdf
+Beginning_Perl.zip
+Effective_Perl_Programming.pdf
+perl-for-beginners.pdf
+Perl_One_Liners_130_Programs_That_Get_Things_Done.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Permutacion_Estadistica_Libros:
+Good2000_Book_PermutationTests.pdf
+Permutation_Statistical_Methods.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Personal:
+M.enC.LeopoldoGzlz2021.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Photoshop:
+an-introduction-to-adobe-photoshop.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros:
+2005_Book_FoundationPHP5ForFlash.pdf
+2005_Book_ProPHPSecurity.pdf
+2006_Book_BeginningPHPAndPostgreSQL8.pdf
+2006_Book_ProPHPXMLAndWebServices.pdf
+2008_Book_BeginningPHPAndMySQLE-Commerce.pdf
+2008_Book_BeginningPHPAndMySQL.pdf
+2008_Book_IntroductionToPHPForScientists (1).pdf
+2008_Book_IntroductionToPHPForScientists.pdf
+2008_Book_PracticalWeb20ApplicationsWith.pdf
+2010_Book_BeginningPHPAndMySQL.pdf
+2010_Book_PHPSolutions.pdf
+2011_Book_ProPHPApplicationPerformance.pdf
+2013_Book_PracticalPHPAndMySQLWebSiteDat.pdf
+2014_Book_PHPForAbsoluteBeginners.pdf
+2015_Book_WebProgrammingWithPHPAndMySQL.pdf
+2016_Book_LearnPHP7.pdf
+2016_Book_PHP7QuickScriptingReference.pdf
+2016_Book_PHPAndMySQLRecipes.pdf
+2016_Book_PHPBeyondTheWeb.pdf
+2016_Book_PHPObjectsPatternsAndPractice.pdf
+2016_Book_ProPHPAndJQuery.pdf
+2017_Book_PHPArrays.pdf
+2017_Book_ProgrammingInHTMLAndPHP.pdf
+2017_Book_ProHTML5WithCSSJavaScriptAndMu.pdf
+2019_Book_BuildingScalablePHPWebApplicat.pdf
+Build_Your_Own_Database-Driven_Website_Using_PHP_MySQL.pdf
+Learn_PHP_7.pdf
+PHP_5_CMS_Framework Development.pdf
+PHP_7_ Object_Oriented_Modular_Programming_HTML5_CSS3.pdf
+PHP 7 Quick Scripting Reference.pdf
+PHP_7_Quick_Scripting_Reference.pdf
+PHP_MySQL_Recipes.pdf
+Programming3DApplications-master
+Skillfeed PHP Object Oriented Programming Build a Login System
+Typed PHP.epub
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master:
+Chapter 1
+Chapter 10
+Chapter 11
+Chapter 12
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+css
+fonts
+images
+labs
+libs
+models
+README.md
+shaders
+sounds
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 1:
+3dtransforms.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 10:
+futurgo.html
+futurgo.js
+previewer.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 11:
+futurgoCity.html
+futurgoCity.js
+futurgoController.js
+futurgoDashboard.js
+futurgoSound.js
+previewer.html
+sceneTree.js
+skybox.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12:
+futurgo.html
+futurgo.js
+omegacity
+omegacity-iOS
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity:
+css
+fonts
+images
+models
+omegacity.html
+omegacityHUD.js
+omegacity.js
+omegacitySound.js
+sounds
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/css:
+fonts.css
+omegacity.css
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/fonts:
+aldrich
+pathwaygothicone
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/fonts/aldrich:
+v3
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/fonts/aldrich/v3:
+VWXaIPGrUapL_Y2vGs0lKALUuEpTyoUstqEm5AMlJo4.woff
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/fonts/pathwaygothicone:
+v1
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/fonts/pathwaygothicone/v1:
+Lqv9ztoTUV8Q0FmQZzPqaCwPNT-0fYl5GOmbcpnDW5g.woff
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/images:
+ammo.png
+cockpit2.png
+ColorFlare.png
+fuel.png
+laser.png
+lensflare1.png
+lens_flare_by_jover_design-d5tfrcc.png
+loadscreenbg.png
+logosm.png
+logowtext.png
+map.png
+menubutton_Inventory.png
+menubutton_Menu.png
+menubutton_Nav.png
+menubutton_Objectives.png
+message_Background.png
+message_Portrait.png
+shields.png
+ShockWave.png
+speed.png
+Star02.png
+target.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/models:
+missile
+vc
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/models/missile:
+missile0FS.glsl
+missile0VS.glsl
+missile.bin
+missile.dae
+missile-fixed0FS.glsl
+missile-fixed0VS.glsl
+missile-fixed.bin
+missile-fixed.dae
+missile-fixed.json
+missile.json
+Texture-orig.png
+Texture.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/models/vc:
+001.jpg
+002.jpg
+11.jpg
+5.jpg
+alien.tga
+cockpit-map.jpg
+f22.jpg
+full.jpg
+heli.jpg
+lights.jpg
+machine.jpg
+O21.jpg
+prop128.png
+prop128.tga
+s_01.jpg
+s_02.jpg
+s_03.jpg
+s_04.jpg
+s_05.jpg
+s_06.jpg
+s_07.jpg
+s_08.jpg
+scrapsurf03-red.jpg
+surface01.jpg
+vc0FS.glsl
+vc0VS.glsl
+vc10FS.glsl
+vc10VS.glsl
+vc12FS.glsl
+vc12VS.glsl
+vc2FS.glsl
+vc2VS.glsl
+vc4FS.glsl
+vc4VS.glsl
+vc6FS.glsl
+vc6VS.glsl
+vc8FS.glsl
+vc8VS.glsl
+vc.bin
+vc.dae
+vc.json
+Virtual_city_2-max5.max
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity/sounds:
+enginesturbinesone.ogg
+entrymusic.mp3
+entrynoise.ogg
+explosion4-trimmed.wav
+flash-sound-jet.ogg
+missile-firing-fl.mp3
+missile-lock-on-sound.mp3
+missile-strike.wav
+no-information.wav
+proximity-alert.wav
+shortlaser.wav
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS:
+css
+fonts
+images
+index.html
+libs
+models
+omegacityGameProxy.js
+omegacity.html
+omegacityHUD.js
+omegacity-iOS.zip
+omegacity.js
+omegacityProxyHUD.js
+omegacityProxySound.js
+omegacitySound.js
+omegacityWVHUD.js
+sounds
+wv.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/css:
+fonts.css
+omegacity.css
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/fonts:
+aldrich
+pathwaygothicone
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/fonts/aldrich:
+v3
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/fonts/aldrich/v3:
+VWXaIPGrUapL_Y2vGs0lKALUuEpTyoUstqEm5AMlJo4.woff
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/fonts/pathwaygothicone:
+v1
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/fonts/pathwaygothicone/v1:
+Lqv9ztoTUV8Q0FmQZzPqaCwPNT-0fYl5GOmbcpnDW5g.woff
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/images:
+ammo.png
+cockpit2.png
+ColorFlare.png
+fuel.png
+laser.png
+lensflare1.png
+lens_flare_by_jover_design-d5tfrcc.png
+loadscreenbg.png
+logosm.png
+logowtext.png
+map.png
+menubutton_Inventory.png
+menubutton_Menu.png
+menubutton_Nav.png
+menubutton_Objectives.png
+message_Background.png
+message_Portrait.png
+shields.png
+ShockWave.png
+speed.png
+Star02.png
+target.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/libs:
+cocoon_cocoonjsextensions
+vizi
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/libs/cocoon_cocoonjsextensions:
+CocoonJS_Ad.js
+CocoonJS_App_ForCocoonJS.js
+CocoonJS_App_ForWebView.js
+CocoonJS_App.js
+CocoonJS_Box2D.js
+CocoonJS_Camera.js
+CocoonJS_FPSCounter_ForWebView.js
+CocoonJS.js
+CocoonJS_Multiplayer_GameCenter.js
+CocoonJS_Multiplayer.js
+CocoonJS_Multiplayer_Loopback.js
+CocoonJS_Notification.js
+CocoonJS_OUYA.js
+CocoonJS_SocialGaming_Facebook.js
+CocoonJS_SocialGaming_GameCenter.js
+CocoonJS_SocialGaming.js
+CocoonJS_SocialGaming_LocalStorage.js
+CocoonJS_SocialGamingManager.js
+CocoonJS_Social.js
+CocoonJS_Social_Twitter.js
+CocoonJS_Store.js
+LeaderboardAndAchievementsViews
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/libs/cocoon_cocoonjsextensions/LeaderboardAndAchievementsViews:
+achievements.html
+assets
+leaderboards.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/libs/cocoon_cocoonjsextensions/LeaderboardAndAchievementsViews/assets:
+css
+images
+js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/libs/cocoon_cocoonjsextensions/LeaderboardAndAchievementsViews/assets/css:
+main.css
+page_achivements.css
+page_leaderboards.css
+style.css
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/libs/cocoon_cocoonjsextensions/LeaderboardAndAchievementsViews/assets/images:
+achivement_locked.png
+close.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/libs/cocoon_cocoonjsextensions/LeaderboardAndAchievementsViews/assets/js:
+jquery-1.8.3.min.js
+jquery.equalheights.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/libs/vizi:
+vizi.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/models:
+missile
+vc
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/models/missile:
+missile0FS.glsl
+missile0VS.glsl
+missile.bin
+missile.dae
+missile-fixed0FS.glsl
+missile-fixed0VS.glsl
+missile-fixed.bin
+missile-fixed.dae
+missile-fixed.json
+missile.json
+Texture-orig.png
+Texture.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/models/vc:
+001.jpg
+002.jpg
+11.jpg
+5.jpg
+alien.tga
+cockpit-map.jpg
+f22.jpg
+full.jpg
+heli.jpg
+lights.jpg
+machine.jpg
+O21.jpg
+prop128.png
+prop128.tga
+s_01.jpg
+s_02.jpg
+s_03.jpg
+s_04.jpg
+s_05.jpg
+s_06.jpg
+s_07.jpg
+s_08.jpg
+scrapsurf03-red.jpg
+surface01.jpg
+vc0FS.glsl
+vc0VS.glsl
+vc10FS.glsl
+vc10VS.glsl
+vc12FS.glsl
+vc12VS.glsl
+vc2FS.glsl
+vc2VS.glsl
+vc4FS.glsl
+vc4VS.glsl
+vc6FS.glsl
+vc6VS.glsl
+vc8FS.glsl
+vc8VS.glsl
+vc.bin
+vc.dae
+vc.json
+Virtual_city_2-max5.max
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 12/omegacity-iOS/sounds:
+enginesturbinesone.ogg
+entrymusic.mp3
+entrynoise.ogg
+explosion4-trimmed.wav
+flash-sound-jet.ogg
+missile-firing-fl.mp3
+missile-lock-on-sound.mp3
+missile-strike.wav
+no-information.wav
+proximity-alert.wav
+shortlaser.wav
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 2:
+example2-1.html
+example2-2.html
+example2-3.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 3:
+threejscube.html
+threejscubelit.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 4:
+materials-template.html
+threejsbumpmap.html
+threejscircle.html
+threejsenvmap.html
+threejslights.html
+threejsmaterials.html
+threejsnormalmap.html
+threejsscene.html
+threejsshaders.html
+threejsshadows.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 5:
+animation-template.html
+keyframeanimation.html
+tweenjstweens.html
+tween-template.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 6:
+css3danimations.html
+css3dbackfaces.html
+css3dcustomfilters.html
+css3dhierarchy.html
+css3dperspective.html
+css3dtransforms.html
+css3dtransitions.html
+css3dwebgl.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 7:
+canvasbasic.html
+canvasfeatures.html
+threejscanvasmodel.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 8:
+pipelinethreejsdaescene.html
+pipelinethreejsgltfscene.html
+pipelinethreejsmodelbinary.html
+pipelinethreejsmodel.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/Chapter 9:
+vizicubebehaviors.html
+vizicube.html
+vizicubeinteractive.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/css:
+3dtransforms.css
+css3danimations.css
+css3dbackfaces.css
+css3dcustomfilters.css
+css3dhierarchy.css
+css3dperspective.css
+css3dtransforms.css
+css3dtransitions.css
+css3dwebgl.css
+fonts.css
+futurgoCity.css
+futurgo.css
+keyframeanimation.css
+main.css
+previewer.css
+threejsbumpmap.css
+threejscanvasmodel.css
+threejsenvmap.css
+threejslights.css
+threejsmaterials.css
+threejsnormalmap.css
+threejsscene.css
+threejsshaders.css
+threejsshadows.css
+threejstextures.css
+tweenjstweens.css
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/fonts:
+PT_Sans
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/fonts/PT_Sans:
+v5
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/fonts/PT_Sans/v5:
+0XxGQsSc1g4rdRdjJKZrNL3hpw3pgy2gAi-Ip7WPMi0.woff
+7YGmE4Ls5b94ct65u07hVQLUuEpTyoUstqEm5AMlJo4.woff
+lILlYDvubYemzYzN7GbLkKRDOzjiPcYnFooOUGCOsRk.woff
+PIPMHY90P7jtyjpXuZ2cLLO3LdcAZYWl9Si6vvxL-qU.woff
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/images:
+9452.jpg
+ash_uvgrid01-bw.jpg
+ash_uvgrid01.jpg
+ash_uvgrid01-lm.jpg
+ash_uvgrid01.nfo
+checker_large.gif
+cloud.png
+Crate22.jpgb12c5bae-74c1-477e-8d4e-fc3ff94fec3fLarger.jpg
+cubemap
+earth_atmos_2048.jpg
+earth_normal_2048.jpg
+field_of_stars_full.jpg
+floor15.jpg
+floor1.jpg
+Futurgo_site_assets
+grasslight-big-bump.png
+grasslight-big.jpg
+grasslight-big-nm.jpg
+green_glow_512.png
+grunge01_08-w560.jpg
+grunge01_14-w560.jpg
+heic1105a.jpg
+HTML5rawkes.png
+lavatile.jpg
+lensflare0_alpha.png
+moon_1024.jpg
+noise.jpeg
+noisy-texture-128x128-o23-d18-c-000000-t1.png
+normal.jpg
+OceanSequence.png
+parisi1.jpg
+sky35
+snowflake7_alpha.png
+Textures_wallpapers_169.jpg
+Tileable classic water texture.jpg
+webgl-logo-256.jpg
+webgl-logo.jpg
+wooden_crate_1_store.jpg
+wooden_crate_texture_by_zackseeker-d38ddsb.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/images/cubemap:
+cube_map_wire
+skybox
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/images/cubemap/cube_map_wire:
+negx.jpg
+negy.jpg
+negz.jpg
+posx.jpg
+posy.jpg
+posz.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/images/cubemap/skybox:
+nx.jpg
+ny.jpg
+nz.jpg
+px.jpg
+py.jpg
+pz.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/images/Futurgo_site_assets:
+bg1440x900.jpg
+bot_frame.png
+end.png
+futurgo_logo.png
+futurgo_logo_sm.png
+left_banner_fade.png
+ltd_model.png
+start.png
+tab01.png
+tab02.png
+tab03.png
+tab04.png
+tab05.png
+top_frame.png
+tour.png
+vizi_powered.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/images/sky35:
+backcity.jpg
+botcity.jpg
+citysky.rwx
+frontcity.jpg
+leftcity.jpg
+rightcity.jpg
+topcity.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/labs:
+animation-template.html
+example2-3-1a.html
+example2-3-1.html
+example2-3-2.html
+example2-3-3.html
+example2-3.html
+keyframeanimation-1.html
+keyframeanimation-2.html
+keyframeanimation-3.html
+keyframeanimation-4.html
+materials-template.html
+threejscanvasmodel-1.html
+threejscanvasmodel.html
+threejscubelit-1.html
+threejscubelit-2.html
+threejscubelit-3.html
+threejscubelit.html
+threejsmaterials-1.html
+threejsmaterials-2.html
+threejsmaterials-3.html
+threejsscene-1.html
+threejsscene-2.html
+threejsscene.html
+tweenjstweens-1.html
+tweenjstweens-2.html
+tween-template.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs:
+colorpicker
+dynatree-1.2.4
+gl-matrix
+jquery-1.9.1
+jquery-ui-1.10.3.custom
+keyframe.js
+requestAnimationFrame
+three.js.r58
+three.js.r59
+tween.js
+vizi
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/colorpicker:
+css
+images
+index.html
+js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/colorpicker/css:
+colorpicker.css
+layout.css
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/colorpicker/images:
+blank.gif
+colorpicker_background.png
+colorpicker_hex.png
+colorpicker_hsb_b.png
+colorpicker_hsb_h.png
+colorpicker_hsb_s.png
+colorpicker_indic.gif
+colorpicker_overlay.png
+colorpicker_rgb_b.png
+colorpicker_rgb_g.png
+colorpicker_rgb_r.png
+colorpicker_select.gif
+colorpicker_submit.png
+custom_background.png
+custom_hex.png
+custom_hsb_b.png
+custom_hsb_h.png
+custom_hsb_s.png
+custom_indic.gif
+custom_rgb_b.png
+custom_rgb_g.png
+custom_rgb_r.png
+custom_submit.png
+select2.png
+select.png
+slider.png
+Thumbs.db
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/colorpicker/js:
+colorpicker.js
+eye.js
+jquery.js
+layout.js
+utils.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/dynatree-1.2.4:
+icons.gif
+icons-rtl.gif
+jquery.dynatree-1.2.4.js
+jquery.dynatree.min.js
+loading.gif
+ui.dynatree.css
+ui.dynatree.vizi.css
+vline.gif
+vline-rtl.gif
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/gl-matrix:
+gl-matrix.js
+gl-matrix-min.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-1.9.1:
+jquery-1.9.1.js
+jquery-1.9.1.min.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom:
+css
+development-bundle
+index.html
+js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/css:
+ui-lightness
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/css/ui-lightness:
+images
+jquery-ui-1.10.3.custom.css
+jquery-ui-1.10.3.custom.min.css
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/css/ui-lightness/images:
+animated-overlay.gif
+ui-bg_diagonals-thick_18_b81900_40x40.png
+ui-bg_diagonals-thick_20_666666_40x40.png
+ui-bg_flat_10_000000_40x100.png
+ui-bg_glass_100_f6f6f6_1x400.png
+ui-bg_glass_100_fdf5ce_1x400.png
+ui-bg_glass_65_ffffff_1x400.png
+ui-bg_gloss-wave_35_f6a828_500x100.png
+ui-bg_highlight-soft_100_eeeeee_1x100.png
+ui-bg_highlight-soft_75_ffe45c_1x100.png
+ui-icons_222222_256x240.png
+ui-icons_228ef1_256x240.png
+ui-icons_ef8c08_256x240.png
+ui-icons_ffd27a_256x240.png
+ui-icons_ffffff_256x240.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle:
+AUTHORS.txt
+demos
+docs
+external
+Gruntfile.js
+jquery-1.9.1.js
+MIT-LICENSE.txt
+package.json
+README.md
+themes
+ui
+ui.accordion.jquery.json
+ui.autocomplete.jquery.json
+ui.button.jquery.json
+ui.core.jquery.json
+ui.datepicker.jquery.json
+ui.dialog.jquery.json
+ui.draggable.jquery.json
+ui.droppable.jquery.json
+ui.menu.jquery.json
+ui.mouse.jquery.json
+ui.position.jquery.json
+ui.progressbar.jquery.json
+ui.resizable.jquery.json
+ui.selectable.jquery.json
+ui.slider.jquery.json
+ui.sortable.jquery.json
+ui.spinner.jquery.json
+ui.tabs.jquery.json
+ui.tooltip.jquery.json
+ui.widget.jquery.json
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos:
+accordion
+autocomplete
+button
+datepicker
+demos.css
+dialog
+draggable
+droppable
+images
+menu
+position
+progressbar
+resizable
+selectable
+slider
+sortable
+spinner
+tabs
+tooltip
+widget
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/accordion:
+collapsible.html
+custom-icons.html
+default.html
+fillspace.html
+hoverintent.html
+index.html
+no-auto-height.html
+sortable.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/autocomplete:
+categories.html
+combobox.html
+custom-data.html
+default.html
+folding.html
+images
+index.html
+london.xml
+maxheight.html
+multiple.html
+multiple-remote.html
+remote.html
+remote-jsonp.html
+remote-with-cache.html
+search.php
+xml.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/autocomplete/images:
+jquery_32x32.png
+jqueryui_32x32.png
+sizzlejs_32x32.png
+transparent_1x1.png
+ui-anim_basic_16x16.gif
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/button:
+checkbox.html
+default.html
+icons.html
+index.html
+radio.html
+splitbutton.html
+toolbar.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/datepicker:
+alt-field.html
+animation.html
+buttonbar.html
+date-formats.html
+date-range.html
+default.html
+dropdown-month-year.html
+icon-trigger.html
+images
+index.html
+inline.html
+jquery.ui.datepicker-ar.js
+jquery.ui.datepicker-fr.js
+jquery.ui.datepicker-he.js
+jquery.ui.datepicker-zh-TW.js
+localization.html
+min-max.html
+multiple-calendars.html
+other-months.html
+show-week.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/datepicker/images:
+calendar.gif
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/dialog:
+animated.html
+default.html
+index.html
+modal-confirmation.html
+modal-form.html
+modal.html
+modal-message.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/draggable:
+constrain-movement.html
+cursor-style.html
+default.html
+delay-start.html
+events.html
+handle.html
+index.html
+revert.html
+scroll.html
+snap-to.html
+sortable.html
+visual-feedback.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/droppable:
+accepted-elements.html
+default.html
+images
+index.html
+photo-manager.html
+propagation.html
+revert.html
+shopping-cart.html
+visual-feedback.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/droppable/images:
+high_tatras2.jpg
+high_tatras2_min.jpg
+high_tatras3.jpg
+high_tatras3_min.jpg
+high_tatras4.jpg
+high_tatras4_min.jpg
+high_tatras.jpg
+high_tatras_min.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/images:
+calendar.gif
+demo-config-on.gif
+demo-config-on-tile.gif
+demo-spindown-closed.gif
+demo-spindown-open.gif
+icon-docs-info.gif
+pbar-ani.gif
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/menu:
+default.html
+icons.html
+index.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/position:
+cycler.html
+default.html
+images
+index.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/position/images:
+earth.jpg
+flight.jpg
+rocket.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/progressbar:
+default.html
+images
+indeterminate.html
+index.html
+label.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/progressbar/images:
+pbar-ani.gif
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/resizable:
+animate.html
+aspect-ratio.html
+constrain-area.html
+default.html
+delay-start.html
+helper.html
+index.html
+max-min.html
+snap-to-grid.html
+synchronous-resize.html
+textarea.html
+visual-feedback.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/selectable:
+default.html
+display-grid.html
+index.html
+serialize.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/slider:
+colorpicker.html
+default.html
+hotelrooms.html
+index.html
+multiple-vertical.html
+range.html
+rangemax.html
+rangemin.html
+range-vertical.html
+side-scroll.html
+slider-vertical.html
+steps.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/sortable:
+connect-lists.html
+connect-lists-through-tabs.html
+default.html
+delay-start.html
+display-grid.html
+empty-lists.html
+index.html
+items.html
+placeholder.html
+portlets.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/spinner:
+currency.html
+decimal.html
+default.html
+index.html
+latlong.html
+overflow.html
+time.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/tabs:
+ajax
+ajax.html
+bottom.html
+collapsible.html
+default.html
+index.html
+manipulation.html
+mouseover.html
+sortable.html
+vertical.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/tabs/ajax:
+content1.html
+content2.html
+content3-slow.php
+content4-broken.php
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/tooltip:
+ajax
+custom-animation.html
+custom-content.html
+custom-style.html
+default.html
+forms.html
+images
+index.html
+tracking.html
+video-player.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/tooltip/ajax:
+content1.html
+content2.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/tooltip/images:
+st-stephens.jpg
+tower-bridge.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/demos/widget:
+default.html
+index.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/docs:
+accordion.html
+autocomplete.html
+button.html
+datepicker.html
+dialog.html
+draggable.html
+droppable.html
+jQuery.widget.html
+menu.html
+mouse.html
+position.html
+progressbar.html
+resizable.html
+selectable.html
+slider.html
+sortable.html
+spinner.html
+tabs.html
+tooltip.html
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/external:
+globalize.culture.de-DE.js
+globalize.culture.ja-JP.js
+globalize.js
+jquery.mousewheel.js
+jshint.js
+qunit.css
+qunit.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/themes:
+base
+ui-lightness
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/themes/base:
+images
+jquery.ui.accordion.css
+jquery.ui.all.css
+jquery.ui.autocomplete.css
+jquery.ui.base.css
+jquery.ui.button.css
+jquery.ui.core.css
+jquery-ui.css
+jquery.ui.datepicker.css
+jquery.ui.dialog.css
+jquery.ui.menu.css
+jquery.ui.progressbar.css
+jquery.ui.resizable.css
+jquery.ui.selectable.css
+jquery.ui.slider.css
+jquery.ui.spinner.css
+jquery.ui.tabs.css
+jquery.ui.theme.css
+jquery.ui.tooltip.css
+minified
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/themes/base/images:
+animated-overlay.gif
+ui-bg_flat_0_aaaaaa_40x100.png
+ui-bg_flat_75_ffffff_40x100.png
+ui-bg_glass_55_fbf9ee_1x400.png
+ui-bg_glass_65_ffffff_1x400.png
+ui-bg_glass_75_dadada_1x400.png
+ui-bg_glass_75_e6e6e6_1x400.png
+ui-bg_glass_95_fef1ec_1x400.png
+ui-bg_highlight-soft_75_cccccc_1x100.png
+ui-icons_222222_256x240.png
+ui-icons_2e83ff_256x240.png
+ui-icons_454545_256x240.png
+ui-icons_888888_256x240.png
+ui-icons_cd0a0a_256x240.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/themes/base/minified:
+images
+jquery.ui.accordion.min.css
+jquery.ui.autocomplete.min.css
+jquery.ui.button.min.css
+jquery.ui.core.min.css
+jquery.ui.datepicker.min.css
+jquery.ui.dialog.min.css
+jquery.ui.menu.min.css
+jquery-ui.min.css
+jquery.ui.progressbar.min.css
+jquery.ui.resizable.min.css
+jquery.ui.selectable.min.css
+jquery.ui.slider.min.css
+jquery.ui.spinner.min.css
+jquery.ui.tabs.min.css
+jquery.ui.theme.min.css
+jquery.ui.tooltip.min.css
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/themes/base/minified/images:
+animated-overlay.gif
+ui-bg_flat_0_aaaaaa_40x100.png
+ui-bg_flat_75_ffffff_40x100.png
+ui-bg_glass_55_fbf9ee_1x400.png
+ui-bg_glass_65_ffffff_1x400.png
+ui-bg_glass_75_dadada_1x400.png
+ui-bg_glass_75_e6e6e6_1x400.png
+ui-bg_glass_95_fef1ec_1x400.png
+ui-bg_highlight-soft_75_cccccc_1x100.png
+ui-icons_222222_256x240.png
+ui-icons_2e83ff_256x240.png
+ui-icons_454545_256x240.png
+ui-icons_888888_256x240.png
+ui-icons_cd0a0a_256x240.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/themes/ui-lightness:
+images
+jquery.ui.accordion.css
+jquery.ui.all.css
+jquery.ui.autocomplete.css
+jquery.ui.base.css
+jquery.ui.button.css
+jquery.ui.core.css
+jquery-ui.css
+jquery.ui.datepicker.css
+jquery.ui.dialog.css
+jquery.ui.menu.css
+jquery.ui.progressbar.css
+jquery.ui.resizable.css
+jquery.ui.selectable.css
+jquery.ui.slider.css
+jquery.ui.spinner.css
+jquery.ui.tabs.css
+jquery.ui.theme.css
+jquery.ui.tooltip.css
+minified
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/themes/ui-lightness/images:
+animated-overlay.gif
+ui-bg_diagonals-thick_18_b81900_40x40.png
+ui-bg_diagonals-thick_20_666666_40x40.png
+ui-bg_flat_10_000000_40x100.png
+ui-bg_glass_100_f6f6f6_1x400.png
+ui-bg_glass_100_fdf5ce_1x400.png
+ui-bg_glass_65_ffffff_1x400.png
+ui-bg_gloss-wave_35_f6a828_500x100.png
+ui-bg_highlight-soft_100_eeeeee_1x100.png
+ui-bg_highlight-soft_75_ffe45c_1x100.png
+ui-icons_222222_256x240.png
+ui-icons_228ef1_256x240.png
+ui-icons_ef8c08_256x240.png
+ui-icons_ffd27a_256x240.png
+ui-icons_ffffff_256x240.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/themes/ui-lightness/minified:
+images
+jquery.ui.accordion.min.css
+jquery.ui.autocomplete.min.css
+jquery.ui.button.min.css
+jquery.ui.core.min.css
+jquery.ui.datepicker.min.css
+jquery.ui.dialog.min.css
+jquery.ui.menu.min.css
+jquery-ui.min.css
+jquery.ui.progressbar.min.css
+jquery.ui.resizable.min.css
+jquery.ui.selectable.min.css
+jquery.ui.slider.min.css
+jquery.ui.spinner.min.css
+jquery.ui.tabs.min.css
+jquery.ui.theme.min.css
+jquery.ui.tooltip.min.css
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/themes/ui-lightness/minified/images:
+animated-overlay.gif
+ui-bg_diagonals-thick_18_b81900_40x40.png
+ui-bg_diagonals-thick_20_666666_40x40.png
+ui-bg_flat_10_000000_40x100.png
+ui-bg_glass_100_f6f6f6_1x400.png
+ui-bg_glass_100_fdf5ce_1x400.png
+ui-bg_glass_65_ffffff_1x400.png
+ui-bg_gloss-wave_35_f6a828_500x100.png
+ui-bg_highlight-soft_100_eeeeee_1x100.png
+ui-bg_highlight-soft_75_ffe45c_1x100.png
+ui-icons_222222_256x240.png
+ui-icons_228ef1_256x240.png
+ui-icons_ef8c08_256x240.png
+ui-icons_ffd27a_256x240.png
+ui-icons_ffffff_256x240.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/ui:
+i18n
+jquery.ui.accordion.js
+jquery.ui.autocomplete.js
+jquery.ui.button.js
+jquery.ui.core.js
+jquery-ui.custom.js
+jquery.ui.datepicker.js
+jquery.ui.dialog.js
+jquery.ui.draggable.js
+jquery.ui.droppable.js
+jquery.ui.menu.js
+jquery.ui.mouse.js
+jquery.ui.position.js
+jquery.ui.progressbar.js
+jquery.ui.resizable.js
+jquery.ui.selectable.js
+jquery.ui.slider.js
+jquery.ui.sortable.js
+jquery.ui.spinner.js
+jquery.ui.tabs.js
+jquery.ui.tooltip.js
+jquery.ui.widget.js
+minified
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/ui/i18n:
+jquery.ui.datepicker-af.js
+jquery.ui.datepicker-ar-DZ.js
+jquery.ui.datepicker-ar.js
+jquery.ui.datepicker-az.js
+jquery.ui.datepicker-be.js
+jquery.ui.datepicker-bg.js
+jquery.ui.datepicker-bs.js
+jquery.ui.datepicker-ca.js
+jquery.ui.datepicker-cs.js
+jquery.ui.datepicker-cy-GB.js
+jquery.ui.datepicker-da.js
+jquery.ui.datepicker-de.js
+jquery.ui.datepicker-el.js
+jquery.ui.datepicker-en-AU.js
+jquery.ui.datepicker-en-GB.js
+jquery.ui.datepicker-en-NZ.js
+jquery.ui.datepicker-eo.js
+jquery.ui.datepicker-es.js
+jquery.ui.datepicker-et.js
+jquery.ui.datepicker-eu.js
+jquery.ui.datepicker-fa.js
+jquery.ui.datepicker-fi.js
+jquery.ui.datepicker-fo.js
+jquery.ui.datepicker-fr-CA.js
+jquery.ui.datepicker-fr-CH.js
+jquery.ui.datepicker-fr.js
+jquery.ui.datepicker-gl.js
+jquery.ui.datepicker-he.js
+jquery.ui.datepicker-hi.js
+jquery.ui.datepicker-hr.js
+jquery.ui.datepicker-hu.js
+jquery.ui.datepicker-hy.js
+jquery.ui.datepicker-id.js
+jquery.ui.datepicker-is.js
+jquery.ui.datepicker-it.js
+jquery.ui.datepicker-ja.js
+jquery.ui.datepicker-ka.js
+jquery.ui.datepicker-kk.js
+jquery.ui.datepicker-km.js
+jquery.ui.datepicker-ko.js
+jquery.ui.datepicker-ky.js
+jquery.ui.datepicker-lb.js
+jquery.ui.datepicker-lt.js
+jquery.ui.datepicker-lv.js
+jquery.ui.datepicker-mk.js
+jquery.ui.datepicker-ml.js
+jquery.ui.datepicker-ms.js
+jquery.ui.datepicker-nb.js
+jquery.ui.datepicker-nl-BE.js
+jquery.ui.datepicker-nl.js
+jquery.ui.datepicker-nn.js
+jquery.ui.datepicker-no.js
+jquery.ui.datepicker-pl.js
+jquery.ui.datepicker-pt-BR.js
+jquery.ui.datepicker-pt.js
+jquery.ui.datepicker-rm.js
+jquery.ui.datepicker-ro.js
+jquery.ui.datepicker-ru.js
+jquery.ui.datepicker-sk.js
+jquery.ui.datepicker-sl.js
+jquery.ui.datepicker-sq.js
+jquery.ui.datepicker-sr.js
+jquery.ui.datepicker-sr-SR.js
+jquery.ui.datepicker-sv.js
+jquery.ui.datepicker-ta.js
+jquery.ui.datepicker-th.js
+jquery.ui.datepicker-tj.js
+jquery.ui.datepicker-tr.js
+jquery.ui.datepicker-uk.js
+jquery.ui.datepicker-vi.js
+jquery.ui.datepicker-zh-CN.js
+jquery.ui.datepicker-zh-HK.js
+jquery.ui.datepicker-zh-TW.js
+jquery-ui-i18n.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/ui/minified:
+i18n
+jquery.ui.accordion.min.js
+jquery.ui.autocomplete.min.js
+jquery.ui.button.min.js
+jquery.ui.core.min.js
+jquery-ui.custom.min.js
+jquery.ui.datepicker.min.js
+jquery.ui.dialog.min.js
+jquery.ui.draggable.min.js
+jquery.ui.droppable.min.js
+jquery.ui.menu.min.js
+jquery.ui.mouse.min.js
+jquery.ui.position.min.js
+jquery.ui.progressbar.min.js
+jquery.ui.resizable.min.js
+jquery.ui.selectable.min.js
+jquery.ui.slider.min.js
+jquery.ui.sortable.min.js
+jquery.ui.spinner.min.js
+jquery.ui.tabs.min.js
+jquery.ui.tooltip.min.js
+jquery.ui.widget.min.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/development-bundle/ui/minified/i18n:
+jquery.ui.datepicker-af.min.js
+jquery.ui.datepicker-ar-DZ.min.js
+jquery.ui.datepicker-ar.min.js
+jquery.ui.datepicker-az.min.js
+jquery.ui.datepicker-be.min.js
+jquery.ui.datepicker-bg.min.js
+jquery.ui.datepicker-bs.min.js
+jquery.ui.datepicker-ca.min.js
+jquery.ui.datepicker-cs.min.js
+jquery.ui.datepicker-cy-GB.min.js
+jquery.ui.datepicker-da.min.js
+jquery.ui.datepicker-de.min.js
+jquery.ui.datepicker-el.min.js
+jquery.ui.datepicker-en-AU.min.js
+jquery.ui.datepicker-en-GB.min.js
+jquery.ui.datepicker-en-NZ.min.js
+jquery.ui.datepicker-eo.min.js
+jquery.ui.datepicker-es.min.js
+jquery.ui.datepicker-et.min.js
+jquery.ui.datepicker-eu.min.js
+jquery.ui.datepicker-fa.min.js
+jquery.ui.datepicker-fi.min.js
+jquery.ui.datepicker-fo.min.js
+jquery.ui.datepicker-fr-CA.min.js
+jquery.ui.datepicker-fr-CH.min.js
+jquery.ui.datepicker-fr.min.js
+jquery.ui.datepicker-gl.min.js
+jquery.ui.datepicker-he.min.js
+jquery.ui.datepicker-hi.min.js
+jquery.ui.datepicker-hr.min.js
+jquery.ui.datepicker-hu.min.js
+jquery.ui.datepicker-hy.min.js
+jquery.ui.datepicker-id.min.js
+jquery.ui.datepicker-is.min.js
+jquery.ui.datepicker-it.min.js
+jquery.ui.datepicker-ja.min.js
+jquery.ui.datepicker-ka.min.js
+jquery.ui.datepicker-kk.min.js
+jquery.ui.datepicker-km.min.js
+jquery.ui.datepicker-ko.min.js
+jquery.ui.datepicker-ky.min.js
+jquery.ui.datepicker-lb.min.js
+jquery.ui.datepicker-lt.min.js
+jquery.ui.datepicker-lv.min.js
+jquery.ui.datepicker-mk.min.js
+jquery.ui.datepicker-ml.min.js
+jquery.ui.datepicker-ms.min.js
+jquery.ui.datepicker-nb.min.js
+jquery.ui.datepicker-nl-BE.min.js
+jquery.ui.datepicker-nl.min.js
+jquery.ui.datepicker-nn.min.js
+jquery.ui.datepicker-no.min.js
+jquery.ui.datepicker-pl.min.js
+jquery.ui.datepicker-pt-BR.min.js
+jquery.ui.datepicker-pt.min.js
+jquery.ui.datepicker-rm.min.js
+jquery.ui.datepicker-ro.min.js
+jquery.ui.datepicker-ru.min.js
+jquery.ui.datepicker-sk.min.js
+jquery.ui.datepicker-sl.min.js
+jquery.ui.datepicker-sq.min.js
+jquery.ui.datepicker-sr.min.js
+jquery.ui.datepicker-sr-SR.min.js
+jquery.ui.datepicker-sv.min.js
+jquery.ui.datepicker-ta.min.js
+jquery.ui.datepicker-th.min.js
+jquery.ui.datepicker-tj.min.js
+jquery.ui.datepicker-tr.min.js
+jquery.ui.datepicker-uk.min.js
+jquery.ui.datepicker-vi.min.js
+jquery.ui.datepicker-zh-CN.min.js
+jquery.ui.datepicker-zh-HK.min.js
+jquery.ui.datepicker-zh-TW.min.js
+jquery-ui-i18n.min.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/jquery-ui-1.10.3.custom/js:
+jquery-1.9.1.js
+jquery-ui-1.10.3.custom.js
+jquery-ui-1.10.3.custom.min.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/keyframe.js:
+keyframe.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/requestAnimationFrame:
+RequestAnimationFrame.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/three.js.r58:
+controls
+libs
+loaders
+three.js
+three.min.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/three.js.r58/controls:
+EditorControls.js
+FirstPersonControls.js
+FlyControls.js
+OrbitControls.js
+PathControls.js
+PointerLockControls.js
+TrackballControls.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/three.js.r58/libs:
+dat.gui.min.js
+stats.min.js
+system.min.js
+tween.min.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/three.js.r58/loaders:
+ColladaLoader.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/three.js.r59:
+loaders
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/three.js.r59/loaders:
+BinaryLoader.js
+ColladaLoader.js
+glTF
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/three.js.r59/loaders/glTF:
+glTFAnimation.js
+glTFLoader.js
+glTFLoaderUtils.js
+webgl-tf-loader.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/tween.js:
+tween.min.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/libs/vizi:
+vizi.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models:
+ball_chair
+Cottus_Elec
+Cottus_Rktlauncher
+Cottus_Twincannon
+duck
+duck.dae
+egg_chair
+flashdrive
+futurgo
+futurgo_city
+futurgo_mobile
+images
+rambler
+ruins
+testthreejsscene
+vc
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/ball_chair:
+ball_chair_bin.bin
+ball_chair_bin.json
+ball_chair(blender).obj
+ball_chair.js
+ball_chair.json
+ball_chair.mtl
+ball_chair.obj
+ball_chair(poser).obj
+maps
+padding_bump.jpg
+padding_color.jpg
+padding_specular.jpg
+pillows_bump.jpg
+pillows_color.jpg
+preview001.jpg
+preview002.jpg
+preview003.jpg
+README_FIRST.txt
+shell_color.jpg
+trim_color.jpg
+wire001.jpg
+wire002.jpg
+wire003.jpg
+wire004.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/ball_chair/maps:
+padding_bump.jpg
+padding_color.jpg
+padding_specular.jpg
+pillows_bump.jpg
+pillows_color.jpg
+shell_color.jpg
+Thumbs.db
+trim_color.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/Cottus_Elec:
+cottus_elec.DAE
+cottus_elec.FBX
+cottus_elec.obj
+images
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/Cottus_Elec/images:
+cottus_body.png
+cottus_body_stealth.png
+cottus_body_stealth.tga
+cottus_body.tga
+cottus_elecgun.png
+cottus_elecgun_stealth.png
+cottus_elecgun_stealth.tga
+cottus_elecgun.tga
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/Cottus_Rktlauncher:
+cottus_rktlauncher.DAE
+cottus_rktlauncher.FBX
+cottus_rktlauncher.obj
+images
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/Cottus_Rktlauncher/images:
+cottus_body.png
+cottus_body_stealth.png
+cottus_body_stealth.tga
+cottus_body.tga
+cottus_rktlauner.png
+cottus_rktlauner.tga
+cottus_rocketlauner_stealth.png
+cottus_rocketlauner_stealth.tga
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/Cottus_Twincannon:
+cottus_twincannon.DAE
+cottus_twincannon.FBX
+cottus_twincannon.obj
+images
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/Cottus_Twincannon/images:
+cottus_body.png
+cottus_body_stealth.png
+cottus_body_stealth.tga
+cottus_body.tga
+cottus_twincannon.png
+cottus_twincannon_stealth.png
+cottus_twincannon_stealth.tga
+cottus_twincannon.tga
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/duck:
+duck0FS.glsl
+duck0VS.glsl
+duck.bin
+duckCM.png
+duck.dae
+duck.json
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/egg_chair:
+eggchair_base(glossy).jpg
+eggchair_base(reflection).jpg
+eggchair(blender).mtl
+eggchair(blender).obj
+eggchair.jpg
+eggchair.js
+eggchair.json
+eggchair_legs(glossy).jpg
+eggchair_legs(reflection).jpg
+eggchair.mtl
+eggchair.obj
+eggchair(poser).mtl
+eggchair(poser).obj
+eggchair_seat(bump).jpg
+eggchair_seat(color)alt1.jpg
+eggchair_seat(color)alt2.jpg
+eggchair_seat(color).jpg
+eggchair_seat(reflection).jpg
+eggchair_support(glossy).jpg
+eggchair_support(reflection).jpg
+maps
+preview01.jpg
+preview02.jpg
+preview03.jpg
+preview04.jpg
+preview05.jpg
+README_FIRST.txt
+wire01.jpg
+wire02.jpg
+wire03.jpg
+wire04.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/egg_chair/maps:
+eggchair_base(glossy).jpg
+eggchair_base(reflection).jpg
+eggchair_legs(glossy).jpg
+eggchair_legs(reflection).jpg
+eggchair_seat(bump).jpg
+eggchair_seat(color)alt1.jpg
+eggchair_seat(color)alt2.jpg
+eggchair_seat(color).jpg
+eggchair_seat(reflection).jpg
+eggchair_support(glossy).jpg
+eggchair_support(reflection).jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/flashdrive:
+flashdrive.js
+flashdrive.Plane.001.js
+flashdrive.Plane.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/futurgo:
+futurgo.bin
+futurgo.dae
+futurgo.json
+images
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/futurgo/images:
+gauges.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/futurgo_city:
+futurgo_city.dae
+images
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/futurgo_city/images:
+ACUnit_A.bmp
+Ad_Sqr11.bmp
+Apart_A.bmp
+Apart_B.bmp
+Apart_C.bmp
+Apart_D.bmp
+Apart_E.bmp
+Apart_F.bmp
+BrickES4.bmp
+Brick_K4.bmp
+Brick_K6.bmp
+Conc_K3.bmp
+ConcWal1.bmp
+Corug_K1.bmp
+Door_A.bmp
+Door_B.bmp
+DoorDb_B.bmp
+GrasES_K.bmp
+MetalES1.bmp
+MetalES2.bmp
+MetalES4.bmp
+Pave_02.bmp
+Pave_05.bmp
+Pine_A_png.png
+Road_01.bmp
+Road_03.bmp
+Road_J04.bmp
+Road_J08.bmp
+Road_Z01.bmp
+Roof2.bmp
+Roof_F_A.bmp
+Roof_F_B.bmp
+Roof_F_C.bmp
+Roof_F_D.bmp
+Sign_VL2.bmp
+SS_Lo_02.bmp
+SS_Lo_04.bmp
+SS_Lo_07.bmp
+SS_Lo_09.bmp
+SS_Lo_10.bmp
+SS_Lo_11.bmp
+SS_Lo_12.bmp
+SS_Lo_13.bmp
+TREE_B_png.png
+TREE_C_png.png
+TREE_G_png.png
+TrfcLitA.bmp
+Vent_K2.bmp
+WallRuf1.bmp
+WallRuf2.bmp
+WalRuinB.bmp
+Windx4_A.bmp
+Windx4_B.bmp
+Windx4_H.bmp
+Windx4_N.bmp
+Windx4_Q.bmp
+Windx4_R.bmp
+WoodES-B.bmp
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/futurgo_mobile:
+futurgo_mobile0FS.glsl
+futurgo_mobile0VS.glsl
+futurgo_mobile2FS.glsl
+futurgo_mobile2VS.glsl
+futurgo_mobile4FS.glsl
+futurgo_mobile4VS.glsl
+futurgo_mobile.bin
+futurgo_mobile.dae
+futurgo_mobile.json
+images
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/futurgo_mobile/images:
+dial2.png
+dial.png
+gauges.png
+negx.jpg
+negy.jpg
+negz.jpg
+posx.jpg
+posy.jpg
+posz.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/images:
+duckCM.png
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/rambler:
+Rambler0FS.glsl
+Rambler0VS.glsl
+Rambler.bin
+Rambler.dae
+Rambler.json
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/ruins:
+Ruins_dae.dae
+tex
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/ruins/tex:
+Buss.jpg
+BussNrml.jpg
+Buss.tga
+Grass_alph.JPG
+Grass.JPG
+oil-truck.jpg
+oil-truckNrml.jpg
+oil-truck.tga
+Ruin1.jpg
+Ruin1Nrml.tga
+Ruin1.tga
+Ruin2.jpg
+Ruin2Nrml.tga
+Ruin2.tga
+Ruin3.jpg
+Ruin3Nrml.tga
+Ruin3.tga
+Ruin4.jpg
+Ruin4Nrml.tga
+Ruin4.tga
+TrckGR.jpg
+TrckGRNrml.jpg
+TrckGR.tga
+TruckR.jpg
+TruckRNrml.jpg
+TruckR.tga
+Water-tank.jpg
+Water-tankNrml.tga
+Water-tank.tga
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/testthreejsscene:
+testthreejsscene.js
+untitled.js
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/models/vc:
+001.jpg
+002.jpg
+11.jpg
+5.jpg
+alien.tga
+cockpit-map.jpg
+f22.jpg
+full.jpg
+heli.jpg
+lights.jpg
+machine.jpg
+O21.jpg
+prop128.png
+prop128.tga
+s_01.jpg
+s_02.jpg
+s_03.jpg
+s_04.jpg
+s_05.jpg
+s_06.jpg
+s_07.jpg
+s_08.jpg
+scrapsurf03-red.jpg
+surface01.jpg
+vc0FS.glsl
+vc0VS.glsl
+vc10FS.glsl
+vc10VS.glsl
+vc12FS.glsl
+vc12VS.glsl
+vc2FS.glsl
+vc2VS.glsl
+vc4FS.glsl
+vc4VS.glsl
+vc6FS.glsl
+vc6VS.glsl
+vc8FS.glsl
+vc8VS.glsl
+vc.bin
+vc.dae
+vc.json
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/shaders:
+bend.vs
+cylinder.fs
+cylinder.vs
+passthrough.fs
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Programming3DApplications-master/sounds:
+162704__synthetic-oz__city-air-with-car-bumps.wav
+162704__synthetic-oz__city-trimmed-looped.wav
+197874__millavsb__refrigerator-motor.wav
+31126__calethos__bump.wav
+
+../Desktop/Libros_TODOS/PPP_libros/PHP_Libros/Skillfeed PHP Object Oriented Programming Build a Login System:
+01. Introduction.mp4
+02. Setting up the Database.mp4
+03. Directory Structure and Files.mp4
+04. Initialization.mp4
+05. Functions.mp4
+06. Config Class.mp4
+07. Database.mp4
+08. Database Querying.mp4
+09. Database Results.mp4
+10. Database Inserts.mp4
+11. Form Valadation.mp4
+12. Csrf Protection.mp4
+13. Flashing.mp4
+14. Registering Users.mp4
+15. Redirecting.mp4
+16. Log In.mp4
+17. Checking if Signed In.mp4
+18. Logging Out.mp4
+19. Remember Me.mp4
+20. Updating Information.mp4
+21. Changing Passwords.mp4
+22. Permissions.mp4
+23. User Profiles.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/PIC_Microcontroller_in_C:
+Acknowledgments_2014_PIC-Microcontroller-Projects-in-C.pdf
+Chapter-1---Microcomputer-Systems_2014_PIC-Microcontroller-Projects-in-C.pdf
+Chapter-2---mikroC-Pro-for-PIC-Programming-_2014_PIC-Microcontroller-Project.pdf
+Chapter-3---MPLAB-X-IDE-and-MPLAB-XC8-C-Progra_2014_PIC-Microcontroller-Proj.pdf
+Chapter-4---Microcontroller-Program-Develo_2014_PIC-Microcontroller-Projects.pdf
+Chapter-5---Simple-PIC18-Projects_2014_PIC-Microcontroller-Projects-in-C.pdf
+Chapter-6---Intermediate-PIC18-Project_2014_PIC-Microcontroller-Projects-in-.pdf
+Chapter-7---Advanced-PIC18-Projects_2014_PIC-Microcontroller-Projects-in-C.pdf
+Copyright_2014_PIC-Microcontroller-Projects-in-C.pdf
+Front-Matter_2014_PIC-Microcontroller-Projects-in-C.pdf
+Index_2014_PIC-Microcontroller-Projects-in-C.pdf
+Microcontroller Programming - The Microchip PIC.pdf
+Preface_2014_PIC-Microcontroller-Projects-in-C.pdf
+Ward2020_Book_CProgrammingForThePICMicrocont.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Plantas:
+
+../Desktop/Libros_TODOS/PPP_libros/Polimeros_libros:
+introduction-to-polymer-science-and-technology.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/POO_libros:
+object-oriented-java.pdf
+structured-programming-with-c-plus-plus.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Popfly:
+2008_Book_FoundationsOfPopfly.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros:
+2006_Book_BeginningPHPAndPostgreSQL8.pdf
+Beginning Databases With Postgresql , 2nd Edition (2005) - allfreeebook.tk.pdf
+database-design-and-implementation.pdf
+Learning PHP, MySQL & JavaScript With jQuery, CSS & HTML5, 4th Edition 2015.pdf
+O'Reilly_Practical_PostgreSQL.chm
+PostgreSQL 9 Administration Cookbook Second Edition.pdf
+PostgreSQL_Comprehensive_Guide_2nd.chm
+PostgreSQL_Introduction_Concepts_2001.pdf
+PostgreSQL_The_Comprehensive_Guide_2E_2005.chm
+Python Programming with POSTGRESQL
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL:
+01 Python Introduction
+02 Python Control Structures
+03 Python String Manipulation
+04 Python StrLists, Tuples, Dictionaries, and Sets
+05 Python Functions
+06 Python Modules and Packages
+07 Python OOP with Python
+08 Python IO with Files and Exception Handling
+09 Python Database with POSTGRESQL
+10 Advanced Topics
+11 Python Wrap Up
+Important ! Readme.txt
+_PLEASE SUPPORT_
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/01 Python Introduction:
+001 History, Introduction, and Installation.mp4
+002 Working of Python.mp4
+003 Basic Syntax.mp4
+004 Variable, Datatypes, and User Input.mp4
+005 Operators in Python.mp4
+006 Section 1 quiz Quiz.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/02 Python Control Structures:
+001 If and If-Else.mp4
+002 Nested If-Else.mp4
+003 While.mp4
+004 For.mp4
+005 Nested Loops.mp4
+006 Break, Continue, Pass Statements.mp4
+007 Section 2 Quiz Quiz.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/03 Python String Manipulation:
+001 Introduction to Strings.mp4
+002 Basic Operations, Functions, and Methods.mp4
+003 Section 3 Quiz Quiz.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/04 Python StrLists, Tuples, Dictionaries, and Sets:
+001 Introduction to Sequences and Lists.mp4
+002 Tuples.mp4
+003 Dictionaries.mp4
+004 Sets.mp4
+005 Section 4 Quiz Quiz.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/05 Python Functions:
+001 Introduction, Definition, and Calling.mp4
+002 Function Arguments and Return Types.mp4
+003 Global and Local Variables.mp4
+004 Lambda Functions and Recursion.mp4
+005 Section 5 Quiz Quiz.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/06 Python Modules and Packages:
+001 Modules.mp4
+002 Packages.mp4
+003 Section 6 Quiz Quiz.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/07 Python OOP with Python:
+001 Introduction to Object Orientated Programming.mp4
+002 Objects and Classes.mp4
+003 Data Hiding  Access Specifiers.mp4
+004 Inheritance.mp4
+005 Overloading.mp4
+006 Polymorphism.mp4
+007 Section 7 Quiz Quiz.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/08 Python IO with Files and Exception Handling:
+001 Text File Processing.mp4
+002 Binary File Processing.mp4
+003 Exception Handling.mp4
+004 Section 8 Quiz Quiz.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/09 Python Database with POSTGRESQL:
+001 Introduction to Database Connectivity in Python.mp4
+002 Database Manipulation 1.mp4
+003 Database Manipulation 2.mp4
+004 Section 9 Quiz Quiz.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/10 Advanced Topics:
+001 Sending Email.mp4
+002 GUI Programming.mp4
+003 GUI Programming tkinter widgets.mp4
+004 Threading.mp4
+005 Section 10 Quiz Quiz.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/11 Python Wrap Up:
+001 What To Do Next.html
+002 Thank You.html
+
+../Desktop/Libros_TODOS/PPP_libros/Postgresql_libros/Python Programming with POSTGRESQL/_PLEASE SUPPORT_:
+^ Please Support - www.appwikia.com.url
+_Read MORE!_.txt
+todaydownloadz.com -   HOME.url
+
+../Desktop/Libros_TODOS/PPP_libros/Predictive_Modeling_Libros:
+Applied_Predictive_Modeling.pdf
+Fundamentals_Predictive_Text_Mining.pdf
+Predictive_Microbiology_Foods.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Probabilidad_libros:
+2002_Book_ProbabilityModelsForDNASequenc.pdf
+2007_Book_PermutationMethods.pdf
+2013_Book_ProbabilityAGraduateCourse.pdf
+2016_Book_ProbabilityForPhysicists.pdf
+2017_Book_ProbabilityAndStatisticsForPar.pdf
+2017_Book_ProbabilityWithApplicationsInE.pdf
+2017_Book_TheoryOfRandomSets.pdf
+2020_Book_ProbabilityAndSimulation.pdf
+26329554.pdf
+[Achim_Klenke]_Probability_Theory_A_Comprehensive.pdf
+a_course_probability_theory_3rd_2000.pdf
+A_First_Course_in_Probability_8th_Edition.pdf
+a_first_look_rigorous_probability_theory_2nd_2006.pdf
+[Albert_Shiryaev]_Probability.pdf
+[Allan_Gut]_An_Intermediate_Course_in_Probability.pdf
+[Allan_Gut]_Probability_A_Graduate_Course.pdf
+an introduction_probability_theory_applications_vol1_3rd_1968.pdf
+an_introduction_probability_theory_applications_vol2_1971.pdf
+[A_Sveshnikov]_Problems_in_Probability_Theory.djvu
+Basics_Applied_Stochastic_Processes_Richard.pdf
+[Bertsekas_Dimitri,Tsitsiklis_John]_Introduction_To_Probability.pdf
+Book_TheoryOfRandomSets.pdf
+[Capinski_Zastawniak]_Probability_through_Problems.pdf
+[Charles_Grinstead,Laurie_Snell]_Introduction_to_Probability.pdf
+[Charles_Grinstead,Laurie_Snell]_Introduction_to_Probability_solutions.pdf
+[Chung_K]_A_Course_In_Probability_Theory.djvu
+[David_Williams]_Probability_with_Martingales.pdf
+ejercicios_resueltos_probabilidad.pdf
+[Frederick_Mosteller]_Fifty_Challenging_Problems_in_Probability.pdf
+[Geoffrey_Grimmett,David_Stirzaker]_Probability_and_Random_processes.pdf
+Informal_Introduction_Stochastic_Processes_Maple_Jan.pdf
+Introduccion_Probabilidad_estadistica.pdf
+introduction_probability_bertsekas_2nd_2008.pdf
+introduction_probability_grinstead_2006.pdf
+introduction_probability.pdf
+Introduction_Probability_Stochastic_Processes_Applications.pdf
+Introduction_Stochastic_Programming_Birge.pdf
+introduction-to-probability.pdf
+[Jean_Jacod,Philip_Protter]_Probability_Essentials.pdf
+[Jeffrey_Rosenthal]_A_First_Look_at_Rigorous_Probability_Theory_2ed .pdf
+Lectures .djvu
+Mathematical_Statistics_Stochastic_Processes_Bosq.pdf
+probabilidad_libro001.pdf
+probabilistic graphical models - principles and techniques (2009).pdf
+probabilistic robotics (2005).pdf
+probabilistic_robotics.pdf
+probability_davarKhoshnevisan.pdf
+probability-for-finance.pdf
+probability_john_lamperti.pdf
+PROBABILITY_RANDOM_PROCESSES.pdf
+Probability_Random_Variables_Random_Processes_Shynk.pdf
+Probability_Random_Variables_Stochastic_Processes.djvu
+probability_random_variables_stochastic_processes.pdf
+Probability_Statistical_Inference_9ed.pdf
+Probability_Statistics_Engineers_Scientists.pdf
+probability_theory_logic_science_2003.pdf
+Probability_Theory_Varadhan.pdf
+random-variables-iii.pdf
+random-variables-ii.pdf
+random-variables-i.pdf
+Random Walks and Random Environments (Vol.1.djvu
+Random walks and random environments, vol.2.djvu
+[R_Dudley]_Real_Analysis_and_Probability.pdf
+[Rick_Durrett]_Probability_Theory_and_Examples.pdf
+[Sheldon_Ross]_A_First_Course_in_Probability_7th_solutions.pdf
+[Sheldon_Ross]_A_First_Course_in_Probability_8th_edition.pdf
+Stochastic_Processes_3D.pdf
+Stochastic processes.djvu
+Stochastic Programming.pdf
+[S_Ulam]_Problems_in_Modern_Mathematics.djvu
+The_Elements_Statistical_Learning.pdf
+Theory_Applications_Stochastic Processes_Zeev.pdf
+Theory_Problems_Probability_Random_Variables_Random_Processes.pdf
+Understanding_Probability.pdf
+[William_Feller]_An_introduction_to_probability_theory_vol_1.djvu
+[William_Feller]_An_introduction_to_probability_theory_vol_2.djvu
+
+../Desktop/Libros_TODOS/PPP_libros/Problemas_Inversos_libros:
+Inverse_Problem_Theory.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Procesamiento_Paralelo:
+2002_Book_IntroductionToParallelProcessi.pdf
+2013_Book_ParallelProgramming.pdf
+2015_Book_GuideToHighPerformanceDistribu.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Procesando_Imagenes_libros:
+2011_Book_StatisticalImageProcessingAndM.pdf
+Biological_Medical_Physics_Biomedical_Engineering.pdf
+Castleman - Digital Image Processing.pdf
+Castleman-DigitalImageProcessing.pdf
+Digita_Image_Processing_2N.pdf
+Digita_Image_Processing_3Ed.pdf
+DIGITAL_IMAGE.pdf
+Digital_Image_Processing_2e.pdf
+Digital_Image_Processing_2N.pdf
+Digital_Image_Processing2.pdf
+digital_image_processing33l.pdf
+Digital Image Processing 5th.pdf
+DigitalImageProcessing5th.pdf
+Digital Image Processing- Bernd Jahne.pdf
+DigitalImageProcessing-BerndJahne.pdf
+digital-image-processing-part-one.pdf
+digital-image-processing-part-two.pdf
+digital_image_processing.pdf
+Digital_Image_Processing_Using_Matlab.pdf
+Early vision Images, context and memory.pdf
+EarlyvisionImages,contextandmemory.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Procesando_Senales:
+2013_Book_DigitalSignalProcessingForMedi.pdf
+2017_Book_DigitalSignalProcessingWithMat.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Procesos_Estocasticos_Libros:
+1990_Book_StochasticEquationsAndDifferen.pdf
+1992_Book_NumericalSolutionOfStochasticD.pdf
+1992_Book_StochasticDifferentialEquation.pdf
+1993_Book_AnIntroductionToProbabilityAnd.pdf
+1995_Book_NumericalIntegrationOfStochast.pdf
+1999_Book_StochasticControls.pdf
+2002_Book_FromElementaryProbabilityToSto.pdf
+2003_Book_IntroductionToAppliedNonlinear.pdf
+2003_Book_StochasticDifferentialEquation.pdf
+2005_Book_StochasticIntegrationAndDiffer.pdf
+2006_Book_ACourseInAppliedStochasticProc.pdf
+2007_Book_ModelingWithItôStochasticDiffe.pdf
+2009_Book_BasicsOfAppliedStochasticProce.pdf
+2009_Book_StochasticToolsInMathematicsAn.pdf
+2012_Book_StochasticStabilityOfDifferent.pdf
+2012_Book_StochasticSystems.pdf
+2014_Book_IntroductionToStochasticIntegr.pdf
+2014_Book_StochasticChemicalKinetics.pdf
+2014_Book_StochasticProcessesInCellBiolo.pdf
+2015_Book_StochasticPartialDifferentialE.pdf
+2017_Book_BackwardStochasticDifferential.pdf
+2017_Book_StochasticCalculus.pdf
+2017_Book_StochasticPartialDifferentialE.pdf
+2018_Book_ElementsOfStochasticCalculusAn.pdf
+2019_Book_BasicsOfProbabilityAndStochast.pdf
+A_Course_Applied_Stochastic_Processes.pdf
+An_Introduction_Continuous-Time_Stochastic_Processes2.pdf
+An_Introduction_Continuous_Time_Stochastic_Processes2.pdf
+An_Introduction_Continuous-Time_Stochastic_Processes3.pdf
+An_Introduction_Continuous-Time_Stochastic_Processes.pdf
+An_Introduction_Continuous_Time_Stochastic_Processes.pdf
+(Applications of Mathematics 23) Peter E. Kloeden, Eckhard Platen (auth.) - Numerical Solution of Stochastic Differential Equations-Springer-Verlag Berlin Heidelberg (1992) (1).pdf
+Applied_Probability_Stochastic_Processes.pdf
+Applied_Stochastic_Processes.pdf
+Basics_Applied_Stochastic_Processes.pdf
+Classical_Spatial_Stochastic_Processes.pdf
+Essentials_Stochastic_Processes2.pdf
+Fourier_Analysis_Stochastic_Processes.pdf
+History_Mathematics_Supplement.pdf
+Informal_Introduction_Stochastic_Processes_Maple.pdf
+Introduction_Stochastic_Integration.pdf
+Numerical_Methods_Stochastic_Partial_Differential_Equations_White_Noise.pdf
+Park2018_Book_FundamentalsOfProbabilityAndSt.pdf
+Permutation_Methods.pdf
+Probability_Theory_Applications.pdf
+Quantum_Mechanics.pdf
+Random_Walks_Random_Environments.djvu
+Random_walks_random_environments_vol_2.djvu
+Recent_Development_Fractals_related_Fields.pdf
+Science_Gateways_Distributed_Computing_Infrastructures.pdf
+Stochastic_Approximation_Applications_Chen.pdf
+Stochastic_Calculus_Fractional_Brownian_Motion_Related_Processes.pdf
+Stochastic differential equations and applications Vol. 12.djvu
+Stochastic_Differential_Equations_Processes.pdf
+Stochastic_Mechanics_Stochastic_Processes.pdf
+Stochastic_problems_Physics_Astronomy.djvu
+Stochastic_Processes2.pdf
+Stochastic_Processes_Calculus.pdf
+Stochastic_Processes_Cell_Biology.pdf
+Stochastic processes.djvu
+Stochastic_processes.djvu
+Stochastic_Processes_Mathematics_Physics.pdf
+Stochastic Processes, Multiscale Modeling, and Numerical_Methods_Computational_Cellular_Biology.pdf
+Stochastic_Processes_Multiscale_Modeling_Numerical_ethods_Biology.pdf
+Stochastic_Processes.pdf
+Stochastic_Processes_Their_Applications.pdf
+Stochastic Programming.pdf
+StochasticProgramming.pdf
+Theory_Applications_Stochastic_Processes.pdf
+Topics_Spatial_Stochastic_Processes.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Programacion_C:
+10.1515_9783110471977.pdf
+Faison2006_Book_Event-BasedProgramming.pdf
+Sutherland2015_Book_CRecipes.pdf
+The_C_Programming_Language_Ritchie_Kernighan.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Programacion_Dinamica_libros:
+2007_Book_StochasticLearningAndOptimizat.pdf
+2013_Book_AdaptiveDynamicProgrammingForC.pdf
+2017_Book_AdaptiveDynamicProgrammingWith.pdf
+2017_Book_ApproximateDynamicProgrammingF.pdf
+Dynamic Programming ( PDFDrive.com ).pdf
+R352.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Programacion_Estocastica_libros:
+C01.pdf
+c02.pdf
+c03.pdf
+c04.pdf
+c05.pdf
+c06.pdf
+c07.pdf
+c08.pdf
+c09.pdf
+c10.pdf
+c11.pdf
+c12.pdf
+c13.pdf
+c14.pdf
+c15.pdf
+c16.pdf
+c17.pdf
+c18.pdf
+c19.pdf
+hnd_Q.pdf
+intro2.pdf
+intro(2).pdf
+Introduction_Stochastic_Programming.pdf
+Lect1.pdf
+Lect2.pdf
+Lect3.pdf
+Lect_EMCO.pdf
+Lena.pdf
+Stochastic Programming.pdf
+StochasticProgramming.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Programacion_Funcional:
+2009_Book_AdvancedFunctionalProgramming.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Programacion_Paralela_libros:
+book.pdf
+computational_grids.pdf
+libro_parallel.pdf
+Parallel_Programming.pdf
+structured-programming-with-c-plus-plus.pdf
+Sun_Grid_Engine_62_install_and_config2.pdf
+Sun_Grid_Engine_62_install_and_config(2).pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Programacion_paralelo:
+Bhattacharya2006_Book_ParallelAndDistributedLogicPro.pdf
+Rauber-Rünger2010_Book_ParallelProgramming.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Programming_Mobile_Web_BUENO:
+9780596807818_s.jpg
+a00.pdf
+a01.pdf
+a02.pdf
+a03.pdf
+a04.pdf
+a05.pdf
+a06.pdf
+a07.pdf
+a08.pdf
+a09.pdf
+a10.pdf
+a11.pdf
+a12.pdf
+a13.pdf
+a14.pdf
+a15.pdf
+a16.pdf
+a17.pdf
+a18.pdf
+a19.pdf
+a20.pdf
+b01.pdf
+b02.pdf
+b03.pdf
+b04.pdf
+b05.pdf
+b06.pdf
+b07.pdf
+b08.pdf
+b09.pdf
+b10.pdf
+b11.pdf
+b12.pdf
+b13.pdf
+b14.pdf
+b15.pdf
+b16.pdf
+b17.pdf
+b18.pdf
+b19.pdf
+c01.pdf
+c02.pdf
+c03.pdf
+c04.pdf
+c05.pdf
+c06.pdf
+c07.pdf
+c08.pdf
+c09.pdf
+c10.pdf
+c11.pdf
+c12.pdf
+c13.pdf
+c14.pdf
+c15.pdf
+c16.pdf
+c17.pdf
+c18.pdf
+c19.pdf
+Programming_Mobile_Web_BUENO.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Proteinas_libros:
+2000_Book_ProteinStructurePrediction.pdf
+2008_Book_MolecularModelingOfProteins.pdf
+2008_Book_ProteinStructurePrediction.pdf
+2011_Book_BiophysicalChemistryOfProteins.pdf
+2012_Book_Protein-ProteinInteractions.pdf
+2015_Book_FundamentalsOfProteinStructure.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Psicologia_Libros:
+2015_Book_SocialPhenomena.pdf
+5_compendio_tecnicas_dinamicas_ecosur_adolesc.pdf
+ABC en Emergencia 3ª Edicion_booksmedicos.org.pdf
+adcara.pdf
+Adicciones clinica y terapeutica_booksmedicos..pdf
+Advanced Sex.pdf
+agregad.pdf
+Alonso Carlos Javier - Cuestiones Bioeticas Sobre La Homosexualidad.PDF
+An_Introduction_Behavioral.pdf
+Anorexia y bulimia una experiencia clínica_booksmedicos.org.pdf
+Aplicaciones.clinicas.del.MMPI-A.pdf
+Aplicaciones Educativas de la Psicologia Positiva.pdf
+aplic.pdf
+APOYA A BOOKSMEDICOS.txt
+Aprendizaje.y.Conducta.pdf
+apunts.pdf
+ardil.pdf
+Asociacion Española de Psiquiatria del niño y el adolescente.pdf
+assessment-centres.pdf
+Atencion al maltrato infantil desde el ambito educativo.pdf
+authentic-networking.pdf
+Autismo y Trastornos del Lenguaje.pdf
+Autoestima para principiantes_booksmedicos.org.pdf
+barreras.pdf
+be-a-better-writer.pdf
+Biologically_Inspired_Learning.pdf
+Bioquimica.Clinica.Texto.Ilustrado.en.Color.Gaw.5a.Ed.pdf
+booksmedicos.org.txt
+boost-your-memory-and-sharpen-your-mind.pdf
+Bulimia y Anorexia.pdf
+bullvil.pdf
+Bullying asambleas escolares para mejorar la convivencia escolar.pdf
+business-blogs.pdf
+Capponi Ricardo - Psicopatologia y semiologia psiquiatrica.pdf
+career-change-4-u-three-steps-to-success.pdf
+cincue.pdf
+coleccion de libros  de psicologia.rar
+colectv.pdf
+Como afrontar la esquizofrenia.pdf
+Comorbilidades.del.TDAH.pdf
+Con el amor no basta.pdf
+conscious-body-language.pdf
+conviq.pdf
+creating-your-cv-as-a-self-marketing-tool.pdf
+Cuentos de locos para locos - Oscar Benassini.epub
+custod.pdf
+De la Euforia a la Tristeza.pdf
+deport.pdf
+Desarrollo.de.la.Infancia.pdf
+Desarrollo.Psicologico.a.traves.de.la.vida.pdf
+Design_Observational_Studies.pdf
+Desordenes Fronterizos y Narcisismo Patologico.pdf
+desprot.pdf
+Diccionario de  psiquiatria y psicologia forense.pdf
+Discapacidad Intelectual.pdf
+Diseños.de.Investigacion.Experimental.en.Psicologia.pdf
+Duelo.en.Oncologia.pdf
+econm.pdf
+effective-discipline.pdf
+Ejercicios de atencion.pdf
+Electroencefalografia.del.Adulto.pdf
+El.guion.de.la.codependencia.en.relaciones.de.pareja.pdf
+El Niño Pequeño Con Autismo.PDF
+El.Poder.Psiquiatrico.pdf
+El.sindrome.de.Asperger.otra.forma.de.aprender.pdf
+emotional-intelligence.pdf
+Endocrinologia Clinica_booksmedicos.org.pdf
+enlace.pdf
+entorn.pdf
+Entrevista.Guia.Practica.para.Estudiantes.y.Profesionales.booksmedicos.org.pdf
+enveje.pdf
+Estimulacion cognitiva y rehabilitacion neuropsicologica_booksmedicos.org.pdf
+etica.pdf
+Evaluacion de los aprendizajes.pdf
+Evaluacion especifica del sindrome de Burnout en psicologos.pdf
+Evaluacion.infantil.fundamentos.cognitivos.pdf
+Evaluacion Psicologica Forense.pdf
+evalu.pdf
+Familiay.Desarrollo.pdf
+Farmacología 10.pdf
+Farmacología 11.pdf
+Farmacología 12.pdf
+Farmacología 13.pdf
+Farmacología 14.pdf
+Farmacología 1.pdf
+Farmacología 2.pdf
+Farmacología 3.pdf
+Farmacología 4.pdf
+Farmacología 5.pdf
+Farmacología 6.pdf
+Farmacología 7.pdf
+Farmacología 8.pdf
+Farmacología 9.pdf
+Fernendez Liria et al (1997) Psicoterapias en el sector público, AEN texto completo.pdf
+Fonoaudiologia.pdf
+Formulacion de casos y diseño de tratamientos cognitivo - conductuales.pdf
+Fundamentos de la Terapia Familiar.pdf
+Fundamentos.de.medicina.legal.pdf
+Fundamentos de Psicobiologia.pdf
+Fundamentos.Filosoficos.de.la.Psicologia.pdf
+Fundamentos para la evaluacion neuropsicologica.pdf
+Gente Toxica.pdf
+getting-motivation-right.pdf
+Glosario psicofarma.pdf
+goal-setting-for-success.pdf
+gorki_-_la_madre.pdf
+graduate-employment-333-tips-for-finding-job.pdf
+Gu_Def_booksmedicos
+Guia.Basica Estimulacion.Cognitiva.para.Adultos.pdf
+guia_clinica_para_el_tratamiento_de_los_trastornos_psicogeriatricos.pdf
+Guía de cuidados fisicos.pdf
+Guia de Practica Clinica de Prevencion y Tratamiento de la Conducta Suicida.pdf
+Guía de recursos en enfermedades raras.pdf
+Guia para el medico depresion y trastornos bipolares.pdf
+Guia practica de salud mental en situaciones de desastres.pdf
+hhsscu.pdf
+Hiperactividad existe frontera entre personalidad y patologia.pdf
+Historia clínica, evaluación y diagnóstico en psiquiatría infantil.pdf
+Homosexualidad.y.Psicologia.pdf
+hospital.pdf
+ignite-your-career.pdf
+improve-your-writing-skills.pdf
+Indice Farmacología.pdf
+infrac.pdf
+Instrumentos de Evaluación Psicologica.pdf
+instru.pdf
+integrc.pdf
+intelsoc.pdf
+intern.pdf
+Introduccion a la psicologia el acceso a la mente y la conducta.pdf
+Introduccion a las Dificultades del Aprendizaje Aguiler.pdf
+introduction-to-scientific-research-projects.pdf
+i-still-cant-speak-english.pdf
+Kaplan.Sadock.Manual.de.Bolsillo.de.Psiquiatria.Clinica.5a.Ed.pdf
+language-overview.pdf
+La nueva psicologia del amor.pdf
+leadership-skills.pdf
+liabilities-and-equity.pdf
+lib_deficit_atencion.pdf
+lib_psiquiatria.pdf
+los cuatro acuerdos.pdf
+maltrt.pdf
+managing-budgets.pdf
+managing-stress.pdf
+managing-through-change.pdf
+Manual Adicciones para medicos especialistas en formacion.pdf
+Manual.clinico.de.los.antidepresivos.pdf
+Manual de Bolsillo de Psiquiatria Clinica.pdf
+Manual de estilos de publicaciones.pdf
+Manual.de.la.Afasia.y.de.Terapia.de.la.Afasia.pdf
+Manual de Psicoterapia Breve, Intensiva y de Urgencia - Leopold Bellak.pdf
+Manual.de.Trastornos.Adictivos.pdf
+Manuales de técnicas
+Manual.Practico.de.Psiquiatria.Forense.pdf
+Manual teórico-práctico de psicoterapias cognitivas (2a. ed.).pdf
+maximising-your-potential.pdf
+MBCV576Manual.de.Autocontrol.del.Enojo.pdf
+migrac.pdf
+mind.pdf
+Modificacion de conducta Que es y como aplicarla - Martin, Pear 8edi.pdf
+Motivacion y Emocion Johnmarshall Reeve.pdf
+motivs.pdf
+multi-2013-05.pdf
+multi-2013-9.pdf
+neurcog.pdf
+Neuropsicologia.Clinica.pdf
+Neuropsicologia clinica y cognoscitiva.pdf
+Neuropsicologia.del.desarrollo.infantil.pdf
+Notes on the use of R for psychology.pdf
+NotesontheuseofRforpsychology.pdf
+Nuevas Aportaciones al Psicodiagnosto Clinico.pdf
+Nuevas tecnicas didacticas en educacion sexual.pdf
+oprimd.pdf
+Paquete Terapia Gestalt
+Parafilias-Evaluacion-y-Tratamiento.pdf
+Pensamiento.Critico.pdf
+perfect-presentations.pdf
+perfiles.pdf
+perfil.pdf
+Pericia en Autopsia Psicologica.pdf
+personal-confidence-and-motivation.pdf
+pisicologia - enfermedad de Alzheimer y otras demencias relacionadas - Manual del cuidador primario.pdf
+presenting-an-effective-message.pdf
+Principios de neuropsicología clinica con orientacion ecologica.pdf
+projectmanagement.pdf
+Psicologia_Clinica_LIBRO.pdf
+sales-presentation-techniques.pdf
+strategies-to-fight-exam-stress-achieve-success.pdf
+stress-measurement-in-less-than-one-minute.pdf
+successful-public-speaking.pdf
+successful-time-management.pdf
+the-25-hour-day.pdf
+the-a-to-z-of-presentations.pdf
+the-smart-guide-to-business-writing.pdf
+the-upside-down-guide-to-writing-for-the-press.pdf
+thinking-skills.pdf
+time-to-be-productive.pdf
+understanding-organisations-part-two.pdf
+write-like-a-pro.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Psicologia_Libros/Gu_Def_booksmedicos:
+Guia de defunciones.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Psicologia_Libros/Manuales de técnicas:
+TECNICAS APLICADAS EN LA PSICOTERAPIA COGNITIVA.doc
+Técnicas de intervención en los trastornos del comportamient.doc
+
+../Desktop/Libros_TODOS/PPP_libros/Psicologia_Libros/Paquete Terapia Gestalt:
+acerca_de_la-confrontacion_Naranjo.pdf
+Enfoque gestáltico holístico de enfermedad- Nana Schnake.pdf
+Experimentación en Terapia Gestáltica.pdf
+Formación de terapeutas Gestalt y Counselling.pdf
+gestalt aplicada a evaluación de aprendizajes.pdf
+Gestalt Personalidad y Odontología.pdf
+gestalt y bioenergética.pdf
+GESTALT_Y_VEJEZ.pdf
+Hellinger habla sobre Gestalt.pdf
+Integración creadora de polaridades- Melguizo.docx
+LA ENFERMEDAD Y EL CARÁCTER DIÁLOGOS GESTÁLTICOS.pdf
+la-silla-vacia.pdf
+Manual de Terapia Infantil Gestáltica.pdf
+mitología personal y práctica gestáltica.pdf
+Paquete Sueño y Ensueño en Terapia Gestalt
+pensamiento gestalt aplicado en calidad de vida organizacional.pdf
+Polaridades -Castanedo.pdf
+Sintomas y enfermedades desde la Terapia Gestalt.pdf
+sistematización de la psicoterapia_gestaltica.pdf
+Un caso terapéutico visto por diversos enfoques de Gestalt.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Psicologia_Libros/Paquete Terapia Gestalt/Paquete Sueño y Ensueño en Terapia Gestalt:
+ensueños en terapia gestalt.pdf
+teorías humanistas existenciales de los sueños.pdf
+Terapia Gestáltica aplicada a sueños de adolescentes.pdf
+trabajo con sueños gestálticos.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/PsicoTerapia_Libros:
+0470948264.ZenMeditation.epub
+9780195388374_Integrative_Psychiatry.pdf
+9780340950050_Psychiatry_an_Evidence_Based_Text.pdf
+9780781768993_Kaplan_Sadock_Comprehensive_Textbook_of_Psychiatry.chm
+9781441958297.The.Practice.of.Functional.Analytic.Psychotherapy.pdf
+9781585622955.Clinical.Manual.of.Emergency.Psychiatry.pdf
+9788122427325.Psychiatry.for.General.Practitioners.pdf
+Adult Psychotherapy Bundle-
+A Historical Dictionary of Psychiatry - E. Shorter (Oxford, 2005) BBS.pdf
+Anti-psychiatry Collection
+Arthur Janov - Primal Healing (Psychology.Biology.Neurology.Brain.Health.Medecine.Psychotherapy.Neurosis)
+before prozac.pdf
+Child_Psychotherapy_Homework_Planner_Jongsma.pdf
+Comprehensive Textbook of AIDS Psychiatry - M. Cohen, J. Gorman (Oxford, 2008) BBS.pdf
+Counseling and Psychotherapy of Religious Clients - A Developmental Approach by Vicky Genia 1995 EPUB and PDF
+CURRENT DiagnosisAndTreatment Psychiatry 2ndEdition
+Encyclopedia of Psychotherapy-EBOOK-SHAREGO
+Essential_Psychiatry.pdf
+Examination Notes in Psychiatry~Basic Sciences, 2e [2006].pdf
+Existential_Psychotherapy.djvu
+Handbook_Systemic_Psychotherapy_Fryszer.pdf
+Hughes'.Outline.of.Modern.Psychiatry.pdf
+KAPLAN & SADOCK'S SYNOPSIS OF PSYCHIATRY -10TH EDITION.CHM
+Lewis's.Child.and.Adolescent.Psychiatry.CHM
+LSD Psychotherapy - Stanislav Grof.pdf
+Manual of Inpatient Psychiatry.pdf
+Neuroscience.of.Clinical.Psychiatry.CHM
+Oxford.Textbook.of.Psychotherapy.CHM
+[PDF] [2006] Psychiatry Pretest (Pretest Series) - 11th Edition.pdf
+Prescriptions for the Mind.pdf
+Principles of Psychotherapy.pdf
+Problem-Based Behavioral Science and Psychiatry.pdf
+Psychiatry 3rdEdition.pdf
+Psychiatry Made Ridiculously Simple.pdf
+Psychiatry.pdf
+Psychiatry PreTest self-assessment and r - [edited by] Giulia Mancini-Mezzacappa.pdf
+Rutter's Child and Adolescent Psychiatry.pdf
+Simple Treatments for Complex Problems.pdf
+Stephen M. Stahl - Essential Psychopharmacology.pdf
+The Art and Science of Psychotherapy - S. Hoffmann, J. Weinberger (Routledge, 2007) BBS.pdf
+The_Art_Science_Psychotherapy.pdf
+The.Neurobiology.of.Autism.pdf
+Theories of Psychotherapy and Counseling 5th ed. - R. Sharf (Cengage, 2012) BBS.pdf
+Theory and Practice of Counseling and Psychotherapy (8th Edn).pdf
+Wiley (2006) Essentials of Psychiatry.pdf
+WPA Series  Evidence and Experience in Psychiatry
+
+../Desktop/Libros_TODOS/PPP_libros/PsicoTerapia_Libros/Adult Psychotherapy Bundle-:
+Adult Psychotherapy Homework Planner.pdf
+The Adult Psychotherapy Notes.pdf
+The Complete Adult Psychotherapy Planner.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/PsicoTerapia_Libros/Anti-psychiatry Collection:
+Foucault, Michel (1989) Madness and civilization - a history of insanity in the age of reason. London; Routledge.pdf
+Hervey Cleckley - The Mask of Sanity.pdf
+Laing, R.D. - The Divided Self An Existential Study in Sanity and Madness (1969); BM OCR 7.0-2.6 LotB.pdf
+Madness, Heresy & The Rumor of Angels -- 3.0 prnt.pdf
+Pridmore - Madness of psychiatry.pdf
+Szasz - The Theology of Medicine [1977](185s).djvu
+Szasz, Thomas - Psychiatric Slavery [1977](159s).djvu
+
+../Desktop/Libros_TODOS/PPP_libros/PsicoTerapia_Libros/Arthur Janov - Primal Healing (Psychology.Biology.Neurology.Brain.Health.Medecine.Psychotherapy.Neurosis):
+Arthur Janov - Primal Healing (Psychology.Biology.Neurology.Brain.Health.Medecine.Psychotherapy.Neurosis).epub
+Arthur Janov - Primal Healing (Psychology.Biology.Neurology.Brain.Health.Medecine.Psychotherapy.Neurosis).mobi
+Arthur Janov - Primal Healing (Psychology.Biology.Neurology.Brain.Health.Medecine.Psychotherapy.Neurosis).pdf
+
+../Desktop/Libros_TODOS/PPP_libros/PsicoTerapia_Libros/Counseling and Psychotherapy of Religious Clients - A Developmental Approach by Vicky Genia 1995 EPUB and PDF:
+Counseling and psychotherapy of religiou - Vicky Genia.epub
+Counseling and psychotherapy of religiou - Vicky Genia.pdf
+VickyGeniaCover.png
+VickyGenia.txt
+
+../Desktop/Libros_TODOS/PPP_libros/PsicoTerapia_Libros/CURRENT DiagnosisAndTreatment Psychiatry 2ndEdition:
+CURRENT DiagnosisAndTreatment Psychiatry 2ndEdition.chm
+read first.txt
+
+../Desktop/Libros_TODOS/PPP_libros/PsicoTerapia_Libros/Encyclopedia of Psychotherapy-EBOOK-SHAREGO:
+Encyclopedia of Psychotherapy.pdf
+qzjk1c.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/PsicoTerapia_Libros/WPA Series  Evidence and Experience in Psychiatry:
+Bipolar Disorders.pdf
+Dementia 2nd Ed.pdf
+Depressive Disorders.pdf
+Obsessive Compulsive Disorder 2nd Ed.pdf
+Personality Disorders.pdf
+Phobias.pdf
+Schizophrenia 2nd Ed.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Psycologia_Libros:
+Principios.de.neuropsicologia.humana.pdf
+Proceso.Corporal.pdf
+projectmanagement.pdf
+protecc.pdf
+Protocolo Trastornos Conducta Alimentaria.pdf
+proysoc.pdf
+pscome.pdf
+Psicodiagnostico.clinico.del.niño.pdf
+Psicofarmacologia para psicologos.pdf
+psicogeriatria.pdf
+psicologia - Acerca Del Lenguaje.ppt
+psicologia - BENDER ManuaL.pdf
+psicologia - Clasificacion de trastornos mentales CIE 10.pdf
+psicologia - Clasificación multiaxial de los trastornos psiquiátricos en niños y Adolescentes Escrito por Monica Magarios.pdf
+Psicologia.Clinica.pdf
+Psicología Clínica - Sanchez Escobedo I.pdf
+Psicologia.cognitiva.y.de la.instruccion.pdf
+psicologia cognitiva y gestalt.doc
+psicologia conductual - Diseño, Implementacion y Evaluacion de caso de Asperger.pdf
+Psicologia.Criminal.pdf
+psicologia  - Crisis De Ansiedad Panico O Angustia.pdf
+psicologia de la motivacion.pdf
+Psicologia.de.la.obesidad.pdf
+psicologia de la seduccion.pdf
+psicologia del autoconocimiento.pdf
+Psicologia del color.pdf
+Psicología de lo masculino.pdf
+psicologia - DSM-IV-TR-Breviario.pdf
+psicologia - DSM-IV-TR  libro de caso.pdf
+psicologia  - DSM IV TR.pdf
+Psicologia.Educativa.pdf
+psicologia - el lenguaje corporal del sexo.pdf
+psicologia - estrategia de afrontamiento de las cuidadoras informales.pdf
+Psicologia experimental David W. Martin.pdf
+Psicologia Forense - Estudio de la mente criminal.pdf
+psicologia - gestalt sexualidad y erotismo.doc
+psicologia - Historia ClInica PsicolOgica.pdf
+Psicologia Industrial y Organizacional.pdf
+psicologia - instrumentos de evaluacion psicologica.pdf
+psicologia - Jay Haley  - Terapia de Ordalia.pdf
+psicologia - Jay Haley -Terapia No Convencional.pdf
+psicologia - Jorge Bucay - Recuentos para Demian HabermusNegrus_T_.pdf
+psicologia - las polaridades en psicoterapia gestalt.pdf
+psicologia - Leo con Alex No.2 - Dijeja.pdf
+psicologia  - Los Juegos Psicologicos Segun El Analisis Transaccional.pdf
+psicologia - manual de psicologia clinica y de la salud hospitalaria.pdf
+psicologia - Manual de psicopatologia.pdf
+Psicologia Manual de Psiquiatria.pdf
+psicologia - Manual Para Terapia Ludica.pdf
+psicologia - Matematicas para divertirse.pdf
+psicologia - Maurizio Andolfi - Terapia Familiar.pdf
+psicologia - nutricion saludable y prevencion de los trastornos alimentarios.pdf
+psicologia - Papel de la focalización de la atención en el tratamiento de la fobia social.pdf
+psicologia - paul Watzlawick - El lenguaje del cambio.pdf
+psicologia - Salvador Minuchin -Tecnicas de Terapia Familiar.pdf
+psicologia - Salvador Minuchin - Técnicas de Terapia Familiar.pdf
+psicologia - Sintomatologia Trastorno Bipolar -infancia-Vs-adolescencia.pptx
+psicologia - tecnicas para la liberacion emocional.pdf
+psicologia - terapia cognitivo conductual.ppt
+psicologia - terapia de juego (2).pdf
+psicologia - terapia de juego.pdf
+psicologia - test psicologicos.pdf
+psicologia -Torcuato luca de tena - Los renglones torcidos de Dios.doc
+psicologia - Trabajo grupal.pdf
+psicologia - trastornos mentales.pdf
+psicologia -“Tratamientos”psiquiatricos.pdf
+psicologia y seduccion - el arte de conseguir el si.pdf
+psicologia y seduccion el arte de despertar deseo, interes, enamoramiento.pdf
+Psicopatologia del niño.pdf
+Psicoterapia evolutiva constructivista en niños y adolescentes-metodos y tecnicas terapeuticas- Sepulveda, Alcaino, Garcia.pdf
+Psicoterapia Familiar Conjunta _ Virginia Satir.pdf
+psicoterapia  para vivir.pdf
+Psiquiatria - Manual CTO (7ª edición).pdf
+Psychology_Gaming_Baek.pdf
+racismad.pdf
+Rehabilitacion neuropsicologica.pdf
+Rehabilitacion.Neuropsicologica.pdf
+revista.pdf
+riesco.pdf
+riesgos.pdf
+sales-presentation-techniques.pdf
+salud.pdf
+Seis.Enfoques.Psicoterapeuticos.pdf
+servsoc.pdf
+Sexoterapia.Integral.pdf
+Sexualidad humana 9na Shibley.pdf
+Sexualidad.Humana.Arango.pdf
+strategies-to-fight-exam-stress-achieve-success.pdf
+successful-public-speaking.pdf
+successful-time-management.pdf
+Tecnicas de negociacion y resolucion de conflictos_booksmedicos.org.pdf
+Teorias.de.la.Personalidad.Schultz.pdf
+Teorias.del.desarrollo.Cognitivo.pdf
+TEPROSIF - R 2008.pdf
+TEPROSIF- R 2008 Set de Laminas.pdf
+Terapia.de.Juego.con.Adultos.pdf
+Terapia Global de la Tartamudez.pdf
+Terapia Ocupacional.pdf
+tesis3.pdf
+tgsis.pdf
+the-25-hour-day.pdf
+the-a-to-z-of-presentations.pdf
+the-smart-guide-to-business-writing.pdf
+the-upside-down-guide-to-writing-for-the-press.pdf
+thinking-skills.pdf
+time-to-be-productive.pdf
+traorg.pdf
+TRE Revisión actual.pdf
+understanding-organisations-part-two.pdf
+Urgencias psiquiatricas.pdf
+Violencia.contra.la.mujer.pdf
+violen.pdf
+write-like-a-pro.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/PyQt:
+Willman2021_Book_ModernPyQt.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Data_Analysis_libros:
+2007_Book_RhythmAndTransforms.pdf
+2014_Book_PythonForSignalProcessing.pdf
+2014_Book_ThePythonWorkbook.pdf
+2015_Book_AnIntroductionToPythonAndCompu.pdf
+2016_Book_AnIntroductionToStatisticsWith.pdf
+2016_Book_APrimerOnScientificProgramming.pdf
+2016_Book_LeanPython.pdf
+2016_Book_ProgrammingForComputations-Pyt.pdf
+2016_Book_PythonDescriptors.pdf
+2016_Book_PythonForProbabilityStatistics.pdf
+2016_Book_PythonRecipesHandbook.pdf
+2016_Book_SolvingPDEsInPython.pdf
+2017_Book_BeginningDjango.pdf
+2017_Book_DeepLearningWithPython.pdf
+2017_Book_MicroPythonForTheInternetOfThi.pdf
+2017_Book_PracticalPythonDesignPatterns.pdf
+2017_Book_Python2And3Compatibility.pdf
+2017_Book_PythonForGraphAndNetworkAnalys.pdf
+2018_Book_DataAnalysisAndVisualizationUs.pdf
+2018_Book_DynamicalSystemsWithApplicatio.pdf
+2018_Book_LearnDataAnalysisWithPython.pdf
+2018_Book_PracticalMachineLearningWithPy.pdf
+c01
+c02
+c03
+c04
+c05
+c06
+c07
+c08
+c09
+c10
+c11
+c12
+c13
+c14
+c15
+c16
+c17
+c18
+c19
+c20
+c21
+c22
+c23
+c24
+c25
+c26
+c27
+c28
+c29
+c30
+c31
+c32
+c33
+c34
+c35
+c36
+c37
+c38
+c39
+c40
+c41
+c42
+c43
+c44
+c45
+c46
+c47
+c48
+c49
+c50
+c51
+c52
+c53
+c54
+c55
+c56
+c57
+c58
+c59
+c60
+c61
+c62
+c63
+c64
+c65
+c66
+c67
+c68
+c69
+c70
+c71
+c72
+c73
+c74
+c75
+c76
+c77
+c78
+c79
+c80
+c81
+c82
+c83
+c84
+c85
+c86
+c87
+c88
+c89
+c90
+c91
+c92
+c93
+c94
+c95
+c96
+c97
+c98
+c99
+Korites2018_Book_PythonGraphics.pdf
+Krogh2018_Book_MySQLConnectorPythonRevealed.pdf
+Kulkarni-Shivananda2019_Book_NaturalLanguageProcessingRecip.pdf
+Kurgalin-Borzunov2021_Book_AlgebraAndGeometryWithPython.pdf
+Lancaster-Webster2019_Book_PythonForTheLifeSciences.pdf
+Lee-Hubbard2015_Book_DataStructuresAndAlgorithmsWit.pdf
+Milliken2020_Book_PythonProjectsForBeginners.pdf
+Nagar2018_Book_IntroductionToPythonForEnginee.pdf
+Pajankar2021_Book_PracticalPythonDataVisualizati.pdf
+Stepanek2020_Book_ThinkingInPandas.pdf
+Wilkes2020_Book_AdvancedPythonDevelopment.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros:
+10.1007_978-1-4842-3423-5.pdf
+10.1007_978-1-4842-6455-3.pdf
+2007_Book_RhythmAndTransforms.pdf
+2014_Book_PythonForSignalProcessing.pdf
+2014_Book_ThePythonWorkbook.pdf
+2015_Book_AnIntroductionToPythonAndCompu.pdf
+2016_Book_AnIntroductionToStatisticsWith.pdf
+2016_Book_APrimerOnScientificProgramming.pdf
+2016_Book_LeanPython.pdf
+2016_Book_ProgrammingForComputations-Pyt.pdf
+2016_Book_PythonDescriptors.pdf
+2016_Book_PythonForProbabilityStatistics.pdf
+2016_Book_PythonRecipesHandbook.pdf
+2016_Book_SolvingPDEsInPython.pdf
+2017_Book_BeginningDjango.pdf
+2017_Book_BeginningPython.pdf
+2017_Book_DeepLearningWithPython.pdf
+2017_Book_MicroPythonForTheInternetOfThi.pdf
+2017_Book_PracticalPythonDesignPatterns.pdf
+2017_Book_Python2And3Compatibility.pdf
+2017_Book_PythonForGraphAndNetworkAnalys.pdf
+2018_Book_DataAnalysisAndVisualizationUs.pdf
+2018_Book_DynamicalSystemsWithApplicatio.pdf
+2018_Book_LearnDataAnalysisWithPython.pdf
+2018_Book_.pdf
+2018_Book_PracticalMachineLearningWithPy.pdf
+2018_Book_PracticalPythonAIProjects.pdf
+2018_Book_PythonGraphics.pdf
+2018_PracticalPythonAIProjects.pdf
+an_introduction_python_computer_programming.pdf
+A_Primer_Scientific_Programming_Python.pdf
+Artificial_Intelligence_Python.PDF
+Beginning_Python_Novice_Professional_LIBRO.pdf
+Beginning_Python.pdf
+Beginning_Python_Visualization_Crafting.pdf
+Beginning_Python_Visualization.pdf
+Beginning_Ruby.pdf
+Beginnning_Python_Visualization.pdf
+Bernard2016_Book_PythonRecipesHandbook.pdf
+BeysolowII2018_Book_AppliedNaturalLanguageProcessi.pdf
+bok_3A978-1-4842-0241-8.pdf
+bok_3A978-3-319-30717-6.pdf
+computer-vision-python-3.pdf
+Data_Structures_Algorithms_Python.pdf
+Driscoll2018_Book_WxPythonRecipes.pdf
+Elementary_Mechanics_Using_Python.pdf
+Expert_Python_Programming_Ziade.pdf
+Foundations_Python_Network_Programming.pdf
+Fundamentals_Python_Data_Structures_Lambert.pdf
+Gad2019_Book_BuildingAndroidAppsInPythonUsi.pdf
+Goerzen2010_Book_FoundationsOfPythonNetworkProg.pdf
+Hall-Stacey2009_Book_Python3ForAbsoluteBeginners.pdf
+Hunt2019_Book_AdvancedGuideToPython3Programm.pdf
+inmersionEnPython3.0.11.pdf
+Introduction_Programming_Using_Python _Liang.pdf
+Introduction_Programming_Using_Python_Liang.pdf
+Introduction_Programming_Using_Python .pdf
+Intro_ML_Python.pdf
+introprog-py.pdf
+InventarConPython_3a_es.pdf
+Johansson2019_Book_NumericalPython.pdf
+Korites2018_Book_PythonGraphics.pdf
+Kulkarni-Shivananda2019_Book_NaturalLanguageProcessingRecip.pdf
+Kurgalin-Borzunov2021_Book_AlgebraAndGeometryWithPython.pdf
+lean_python_gerrard.pdf
+Lean_Python_Paul.pdf
+Learning_Python_3E.pdf
+Learning_Python_Design_Patterns_Zlobin.pdf
+Learning_Python_Mark.pdf
+Learn_Program_Python.pdf
+Learn_Python_HardWay_libros
+Learn_Python_Hard Way.pdf
+Learn to_Program_Python.pdf
+Libro_Python.pdf
+Mastering_Python_Regular_Expressions_Felix.pdf
+Milliken2020_Book_PythonProjectsForBeginners.pdf
+Modelling Creativity.pdf
+MySQL_Python_Albert.pdf
+NipypeBeginnersGuide.pdf
+Numerical_Python-A_Practical_Techniques_Approach_Industry.pdf
+Numerical_Python_LIBRO.pdf
+Numerical_Python_Robert.pdf
+Phython_Data_Analytics_LIBRO.pdf
+ProgrammingComputerVision_CCdraft.pdf
+Pyomo_Optimization_Modeling_Python.pdf
+Python 2.6 Graphics Cookbook - Ohlson de Fine - Packt.pdf
+Python2.6GraphicsCookbook-OhlsondeFine-Packt.pdf
+Python_2_6_Graphics_Cookbook.pdf
+Python_2_6_Text_Processing_Beginners_Guide_McNeil.pdf
+Python_3_Object_Oriented_Programming_Phillips.pdf
+Python_3_Web_Development_Beginner_s_Guide_04.pdf
+Python_Algorithms.pdf
+Python and Tkinter Programming (2000).pdf
+Python_Cookbook_David.pdf
+Python_Create_Modify_Reuse_Knowlton.pdf
+Python_Data_Analysis_libros
+Python_Data_Analysis_libros33
+Python_Data_Analytics.pdf
+Python-for-Data-Analysis.pdf
+Python_Graphics_DATA
+Python_GUI_Development_Tkinter_2014
+Python_Hacking_Essentials.pdf
+Python_In_Nutshell_Alex.pdf
+Python para todos.pdf
+Python_Probability_Statistics_Machine_Learning.pdf
+Python_Programming_Absolute_Beginner_3e_Dawson.pdf
+Python_Programming_An_Introduction_Computer_ Science.pdf
+Python_Programming for_Biology_Bioinformatics_Beyond .pdf
+Python_Programming_Fundamentals_LIBRO.pdf
+Python_Programming_Fundamentals.pdf
+Python_Recipes_Handbook.pdf
+Python_Scripting_Computational_Science_LIBRO.pdf
+Python_Scripting_Computational_Science.pdf
+Python Scripting for Computational Science.pdf
+Python_Signal_Processing_LIBRO.pdf
+Python_Signal_Processing.pdf
+Python_Testing_Cookbook_Turnquist.pdf
+The_Definitive_Guide_Jython_LIBRO.pdf
+The_Definitive_Guide_Jython.pdf
+The_Python_Quick_Syntax_Reference.pdf
+Tkinter GUI ApplicationDevelopment HOTSHOT.pdf
+TutorialPython2.pdf
+Unpingco2019_Book_PythonForProbabilityStatistics.pdf
+Wilkes2020_Book_AdvancedPythonDevelopment.pdf
+Without_Bounds_Scientific_Canvas_NonLinearity.pdf
+Ziade_-_Expert_Python_programming.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Learn_Python_HardWay_libros:
+Learn_Python_Hard Way.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Data_Analysis_libros:
+c01
+c02
+c03
+c04
+c05
+c06
+c07
+c08
+c09
+c10
+c11
+c12
+c13
+c14
+c15
+c16
+c17
+c18
+c19
+c20
+c21
+c22
+c23
+c24
+c25
+c26
+c27
+c28
+c29
+c30
+c31
+c32
+c33
+c34
+c35
+c36
+c37
+c38
+c39
+c40
+c41
+c42
+c43
+c44
+c45
+c46
+c47
+c48
+c49
+c50
+c51
+c52
+c53
+c54
+c55
+c56
+c57
+c58
+c59
+c60
+c61
+c62
+c63
+c64
+c65
+c66
+c67
+c68
+c69
+c70
+c71
+c72
+c73
+c74
+c75
+c76
+c77
+c78
+c79
+c80
+c81
+c82
+c83
+c84
+c85
+c86
+c87
+c88
+c89
+c90
+c91
+c92
+c93
+c94
+c95
+c96
+c97
+c98
+c99
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Data_Analysis_libros33:
+c01
+c02
+c03
+c04
+c05
+c06
+c07
+c08
+c09
+c10
+c11
+c12
+c13
+c14
+c15
+c16
+c17
+c18
+c19
+c20
+c21
+c22
+c23
+c24
+c25
+c26
+c27
+c28
+c29
+c30
+c31
+c32
+c33
+c34
+c35
+c36
+c37
+c38
+c39
+c40
+c41
+c42
+c43
+c44
+c45
+c46
+c47
+c48
+c49
+c50
+c51
+c52
+c53
+c54
+c55
+c56
+c57
+c58
+c59
+c60
+c61
+c62
+c63
+c64
+c65
+c66
+c67
+c68
+c69
+c70
+c71
+c72
+c73
+c74
+c75
+c76
+c77
+c78
+c79
+c80
+c81
+c82
+c83
+c84
+c85
+c86
+c87
+c88
+c89
+c90
+c91
+c92
+c93
+c94
+c95
+c96
+c97
+c98
+c99
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA:
+3845_01_Code_final
+3845_02_Code_final
+3845_03_Code_final
+3845_04_Code_final
+3845_05_Code_final
+3845_06_Code_final
+3845_07_Code_final
+3845_08_Code_final
+3845_09_Code_final
+3845_10_code_final
+3845_11_Code_final
+3845-images in code for chp 10
+3845-images in code for chp 6
+3845-images in code for chp 7
+3845-images in code for chp 9
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_01_Code_final:
+simple_line_1.py
+simplest_1.py
+simplest_2.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_02_Code_final:
+3arc_ellipses.py
+3concentric_squares.py
+3rectangles.py
+4color_text.py
+4lines.py
+align_text_2.py
+arc_circle.py
+circle_1.py
+clone_stars.py
+curved_bend.py
+dashed_line.py
+fonts_available.py
+line_1.py
+rectangle.py
+sharp_bend.py
+shifted_star.py
+star_polygon.py
+text_1.py
+triangle_polygon.py
+vine_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_03_Code_final:
+4color_text.py
+align_text_1.py
+align_text_2.py
+anchor_align_text_1.py
+fonts_available.py
+justify_align_text_1.py
+text_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_04_Code_final:
+bounce_ball_1.py
+floating_point_collisions_1.py
+gravity_ball_1.py
+kinetic_gravity_balls_1.py
+moveball_1.py
+move_erase_cycle_1.py
+multiple_line_rotations_1.py
+rotate_line_1.py
+timed_moveball_1.py
+two_balls_moving_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_05_Code_final:
+animated_color_wheel_1.py
+color_arithmetic_1.py
+color_mixer_1.py
+color_picker_1.py
+primary_color_wheel_1.py
+red_beachball_1.py
+red_beachball_1.py~
+red_color_segment_1.py
+systematicColorNames_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_06_Code_final:
+image_blend_1.py
+image_blend_2.py
+image_color_adjuster_1.py
+image_color_manip_1.py
+image_composite_1.py
+image_flips_1.py
+image_getattributes_1.py
+image_get_green_1.py
+image_jpg2png_1.py
+image_offset_1.py
+image_one2another_1.py
+image_pileof_filters_1.py
+image_preserved_aspect_resize_1.py
+image_resize_1.py
+image_rotate_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_07_Code_final:
+endless_passing_show_1.py
+passing_cloudscape_1.py
+passing_show_1.py
+photo_image_animation_1.py
+walker_spider_1.py
+walking_birdy_1.py
+walking_creature_1.py
+walking_toff_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_08_Code_final:
+all_mouse_actions_1.py
+file_append_1.py
+file_make_1.py
+file_write_1.py
+file_write_2.py
+mouseclick_1.py
+mouse_shape_editor_1.py
+mouse_shape_recorder_1.py
+retrieve_curley_vine_1.py
+save_curley_vine_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_09_Code_final:
+commas_for_spaces_svg2tkinter_1.py
+table_glass_vase_1.JPG
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_10_code_final:
+alert_D.gif
+blueeye_D.gif
+button_1.py
+button_array_1.py
+button_focus_1.py
+button_interaction_1.py
+button_message_1.py
+dropdown_1.py
+earth_D.gif
+earth.gif
+entry_box_1.py
+eye_D.gif
+fireman_1.gif
+galaxy_D.gif
+go_on.gif
+image_button_1.py
+listbox_simple_1.py
+random_2_D.gif
+random_3_D.gif
+smile_D.gif
+text_in_window_1.py
+Usbkey_D.gif
+vine_D.gif
+widget_configuration_1.py
+winged_lion.gif
+winglion_D.gif
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845_11_Code_final:
+checkbox_1.py
+checkbox_1.py~
+frame_1.py
+frame_1.py~
+grid_button_array_1.py
+keypress_1.py
+keypress_1.py~
+mini_3slider_gadget_1.py
+mini_3slider_gadget_1.py~
+pack_button_array_1.py
+radio_1.py
+scrollbar_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845-images in code for chp 10:
+alert_D.gif
+blueeye_D.gif
+earth_D.gif
+earth.gif
+eye_D.gif
+fireman_1.gif
+galaxy_D.gif
+go_on.gif
+random_2_D.gif
+random_3_D.gif
+smile_D.gif
+Usbkey_D.gif
+vine_D.gif
+winged_lion.gif
+winglion_D.gif
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845-images in code for chp 6:
+100_canary.png
+100_cockcrow.png
+100_sun_1.png
+blank.png
+canary_a.jpg
+dusi_leo_1.jpg
+dusi_leo.png
+dusi_leo_smlr_1.jpg
+fiery_2.png
+lion_ramp_2.png
+russian_doll.png
+test_pattern_1.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845-images in code for chp 7:
+ambassador.gif
+apteryx1.gif
+apteryx1.png
+beachball.gif
+blue_vase.gif
+brass_vase.gif
+continuous_clouds_panorama.gif
+glass_vase.gif
+jungle_strip_1.gif
+karoo.gif
+red_vase.gif
+shoe1.gif
+toff_bg.gif
+toff_shoe.gif
+yellow_airplane_2.gif
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_Graphics_DATA/3845-images in code for chp 9:
+table_glass_vase_1.JPG
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_GUI_Development_Tkinter_2014:
+00. Introduction
+01. Getting Started with Python and Tkinter
+02. Tkinter Concepts
+03. Basic Widgets
+04. Organizational Widgets
+05. Advanced Widgets
+06. Geometry Management
+07. Event Handling
+08. Building an Application
+Exercise Files.zip
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_GUI_Development_Tkinter_2014/00. Introduction:
+00_01-welcome.mp4
+00_02-prerequisites.mp4
+00_03-exercisefiles.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_GUI_Development_Tkinter_2014/01. Getting Started with Python and Tkinter:
+01_01-windows_install.mp4
+01_02-mac_install.mp4
+01_03-hello.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_GUI_Development_Tkinter_2014/02. Tkinter Concepts:
+02_01-background.mp4
+02_02-widgets.mp4
+02_03-geometry.mp4
+02_04-events.mp4
+02_05-revisit.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_GUI_Development_Tkinter_2014/03. Basic Widgets:
+03_01-label.mp4
+03_02-button.mp4
+03_03-selection_buttons.mp4
+03_04-entry.mp4
+03_05-selection_boxse.mp4
+03_06-progressbar.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_GUI_Development_Tkinter_2014/04. Organizational Widgets:
+04_01-frame.mp4
+04_02-toplevel.mp4
+04_03-panedwindow.mp4
+04_04-notebook.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_GUI_Development_Tkinter_2014/05. Advanced Widgets:
+05_01-text.mp4
+05_02-text_advanced.mp4
+05_03-treeview.mp4
+05_04-treeview_advanced.mp4
+05_05-menu.mp4
+05_06-canvas.mp4
+05_07-canvas_advanced.mp4
+05_08-scrollbar.mp4
+05_09-style.mp4
+05_10-dialog.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_GUI_Development_Tkinter_2014/06. Geometry Management:
+06_01-pack.mp4
+06_02-grid.mp4
+06_03-place.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_GUI_Development_Tkinter_2014/07. Event Handling:
+07_01-callback.mp4
+07_02-keyboard.mp4
+07_03-mouse.mp4
+07_04-virtual.mp4
+07_05-multiple.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros/Python_GUI_Development_Tkinter_2014/08. Building an Application:
+08_01-requirements.mp4
+08_02-design.mp4
+08_03-widgets.mp4
+08_04-layout.mp4
+08_05-events.mp4
+08_06-style.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323:
+10.1007_978-1-4842-6455-3.pdf
+2007_Book_RhythmAndTransforms.pdf
+2014_Book_PythonForSignalProcessing.pdf
+2014_Book_ThePythonWorkbook.pdf
+2015_Book_AnIntroductionToPythonAndCompu.pdf
+2016_Book_AnIntroductionToStatisticsWith.pdf
+2016_Book_APrimerOnScientificProgramming.pdf
+2016_Book_LeanPython.pdf
+2016_Book_ProgrammingForComputations-Pyt.pdf
+2016_Book_PythonDescriptors.pdf
+2016_Book_PythonForProbabilityStatistics.pdf
+2016_Book_PythonRecipesHandbook.pdf
+2016_Book_SolvingPDEsInPython.pdf
+2017_Book_BeginningDjango.pdf
+2017_Book_BeginningPython.pdf
+2017_Book_DeepLearningWithPython.pdf
+2017_Book_MicroPythonForTheInternetOfThi.pdf
+2017_Book_PracticalPythonDesignPatterns.pdf
+2017_Book_Python2And3Compatibility.pdf
+2017_Book_PythonForGraphAndNetworkAnalys.pdf
+2018_Book_DataAnalysisAndVisualizationUs.pdf
+2018_Book_DynamicalSystemsWithApplicatio.pdf
+2018_Book_LearnDataAnalysisWithPython.pdf
+2018_Book_.pdf
+2018_Book_PracticalMachineLearningWithPy.pdf
+2018_Book_PracticalPythonAIProjects.pdf
+2018_Book_PythonGraphics.pdf
+2018_PracticalPythonAIProjects.pdf
+an_introduction_python_computer_programming.pdf
+A_Primer_Scientific_Programming_Python.pdf
+Artificial_Intelligence_Python.PDF
+Beginning_Python_Novice_Professional_LIBRO.pdf
+Beginning_Python.pdf
+Beginning_Python_Visualization_Crafting.pdf
+Beginning_Python_Visualization.pdf
+Beginning_Ruby.pdf
+Beginnning_Python_Visualization.pdf
+Bernard2016_Book_PythonRecipesHandbook.pdf
+BeysolowII2018_Book_AppliedNaturalLanguageProcessi.pdf
+bok_3A978-1-4842-0241-8.pdf
+bok_3A978-3-319-30717-6.pdf
+c01
+c02
+c03
+c04
+c05
+c06
+c07
+c08
+c09
+c10
+c11
+c12
+c13
+c14
+c15
+c16
+c17
+c18
+c19
+c20
+c21
+c22
+c23
+c24
+c25
+c26
+c27
+c28
+c29
+c30
+c31
+c32
+c33
+c34
+c35
+c36
+c37
+c38
+c39
+c40
+c41
+c42
+c43
+c44
+c45
+c46
+c47
+c48
+c49
+c50
+c51
+c52
+c53
+c54
+c55
+c56
+c57
+c58
+c59
+c60
+c61
+c62
+c63
+c64
+c65
+c66
+c67
+c68
+c69
+c70
+c71
+c72
+c73
+c74
+c75
+c76
+c77
+c78
+c79
+c80
+c81
+c82
+c83
+c84
+c85
+c86
+c87
+c88
+c89
+c90
+c91
+c92
+c93
+c94
+c95
+c96
+c97
+c98
+c99
+computer-vision-python-3.pdf
+Data_Structures_Algorithms_Python.pdf
+Driscoll2018_Book_WxPythonRecipes.pdf
+Elementary_Mechanics_Using_Python.pdf
+Expert_Python_Programming_Ziade.pdf
+Foundations_Python_Network_Programming.pdf
+Fundamentals_Python_Data_Structures_Lambert.pdf
+Gad2019_Book_BuildingAndroidAppsInPythonUsi.pdf
+Goerzen2010_Book_FoundationsOfPythonNetworkProg.pdf
+Hall-Stacey2009_Book_Python3ForAbsoluteBeginners.pdf
+Hunt2019_Book_AdvancedGuideToPython3Programm.pdf
+inmersionEnPython3.0.11.pdf
+Introduction_Programming_Using_Python _Liang.pdf
+Introduction_Programming_Using_Python_Liang.pdf
+Introduction_Programming_Using_Python .pdf
+Intro_ML_Python.pdf
+introprog-py.pdf
+InventarConPython_3a_es.pdf
+Johansson2019_Book_NumericalPython.pdf
+Korites2018_Book_PythonGraphics.pdf
+Krogh2018_Book_MySQLConnectorPythonRevealed.pdf
+Kulkarni-Shivananda2019_Book_NaturalLanguageProcessingRecip.pdf
+Kurgalin-Borzunov2021_Book_AlgebraAndGeometryWithPython.pdf
+Lancaster-Webster2019_Book_PythonForTheLifeSciences.pdf
+lean_python_gerrard.pdf
+Lean_Python_Paul.pdf
+Learning_Python_3E.pdf
+Learning_Python_Design_Patterns_Zlobin.pdf
+Learning_Python_Mark.pdf
+Learn_Program_Python.pdf
+Learn_Python_HardWay_libros
+Learn_Python_Hard Way.pdf
+Learn to_Program_Python.pdf
+Lee-Hubbard2015_Book_DataStructuresAndAlgorithmsWit.pdf
+Libro_Python.pdf
+Mastering_Python_Regular_Expressions_Felix.pdf
+Milliken2020_Book_PythonProjectsForBeginners.pdf
+Modelling Creativity.pdf
+MySQL_Python_Albert.pdf
+Nagar2018_Book_IntroductionToPythonForEnginee.pdf
+NipypeBeginnersGuide.pdf
+Numerical_Python-A_Practical_Techniques_Approach_Industry.pdf
+Numerical_Python_LIBRO.pdf
+Numerical_Python_Robert.pdf
+Pajankar2021_Book_PracticalPythonDataVisualizati.pdf
+Phython_Data_Analytics_LIBRO.pdf
+ProgrammingComputerVision_CCdraft.pdf
+Pyomo_Optimization_Modeling_Python.pdf
+Python 2.6 Graphics Cookbook - Ohlson de Fine - Packt.pdf
+Python2.6GraphicsCookbook-OhlsondeFine-Packt.pdf
+Python_2_6_Graphics_Cookbook.pdf
+Python_2_6_Text_Processing_Beginners_Guide_McNeil.pdf
+Python_3_Object_Oriented_Programming_Phillips.pdf
+Python_3_Web_Development_Beginner_s_Guide_04.pdf
+Python_Algorithms.pdf
+Python and Tkinter Programming (2000).pdf
+Python_Cookbook_David.pdf
+Python_Create_Modify_Reuse_Knowlton.pdf
+Python_Data_Analysis_libros
+Python_Data_Analysis_libros33
+Python_Data_Analytics.pdf
+Python-for-Data-Analysis.pdf
+Python_Graphics_DATA
+Python_GUI_Development_Tkinter_2014
+Python_Hacking_Essentials.pdf
+Python_In_Nutshell_Alex.pdf
+Python para todos.pdf
+Python_Probability_Statistics_Machine_Learning.pdf
+Python_Programming_Absolute_Beginner_3e_Dawson.pdf
+Python_Programming_An_Introduction_Computer_ Science.pdf
+Python_Programming for_Biology_Bioinformatics_Beyond .pdf
+Python_Programming_Fundamentals_LIBRO.pdf
+Python_Programming_Fundamentals.pdf
+Python_Recipes_Handbook.pdf
+Python_Scripting_Computational_Science_LIBRO.pdf
+Python_Scripting_Computational_Science.pdf
+Python Scripting for Computational Science.pdf
+Python_Signal_Processing_LIBRO.pdf
+Python_Signal_Processing.pdf
+Python_Testing_Cookbook_Turnquist.pdf
+Stepanek2020_Book_ThinkingInPandas.pdf
+The_Definitive_Guide_Jython_LIBRO.pdf
+The_Definitive_Guide_Jython.pdf
+The_Python_Quick_Syntax_Reference.pdf
+Tkinter GUI ApplicationDevelopment HOTSHOT.pdf
+TutorialPython2.pdf
+Unpingco2019_Book_PythonForProbabilityStatistics.pdf
+Wilkes2020_Book_AdvancedPythonDevelopment.pdf
+Without_Bounds_Scientific_Canvas_NonLinearity.pdf
+Ziade_-_Expert_Python_programming.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Learn_Python_HardWay_libros:
+Learn_Python_Hard Way.pdf
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Data_Analysis_libros:
+c01
+c02
+c03
+c04
+c05
+c06
+c07
+c08
+c09
+c10
+c11
+c12
+c13
+c14
+c15
+c16
+c17
+c18
+c19
+c20
+c21
+c22
+c23
+c24
+c25
+c26
+c27
+c28
+c29
+c30
+c31
+c32
+c33
+c34
+c35
+c36
+c37
+c38
+c39
+c40
+c41
+c42
+c43
+c44
+c45
+c46
+c47
+c48
+c49
+c50
+c51
+c52
+c53
+c54
+c55
+c56
+c57
+c58
+c59
+c60
+c61
+c62
+c63
+c64
+c65
+c66
+c67
+c68
+c69
+c70
+c71
+c72
+c73
+c74
+c75
+c76
+c77
+c78
+c79
+c80
+c81
+c82
+c83
+c84
+c85
+c86
+c87
+c88
+c89
+c90
+c91
+c92
+c93
+c94
+c95
+c96
+c97
+c98
+c99
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Data_Analysis_libros33:
+c01
+c02
+c03
+c04
+c05
+c06
+c07
+c08
+c09
+c10
+c11
+c12
+c13
+c14
+c15
+c16
+c17
+c18
+c19
+c20
+c21
+c22
+c23
+c24
+c25
+c26
+c27
+c28
+c29
+c30
+c31
+c32
+c33
+c34
+c35
+c36
+c37
+c38
+c39
+c40
+c41
+c42
+c43
+c44
+c45
+c46
+c47
+c48
+c49
+c50
+c51
+c52
+c53
+c54
+c55
+c56
+c57
+c58
+c59
+c60
+c61
+c62
+c63
+c64
+c65
+c66
+c67
+c68
+c69
+c70
+c71
+c72
+c73
+c74
+c75
+c76
+c77
+c78
+c79
+c80
+c81
+c82
+c83
+c84
+c85
+c86
+c87
+c88
+c89
+c90
+c91
+c92
+c93
+c94
+c95
+c96
+c97
+c98
+c99
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA:
+3845_01_Code_final
+3845_02_Code_final
+3845_03_Code_final
+3845_04_Code_final
+3845_05_Code_final
+3845_06_Code_final
+3845_07_Code_final
+3845_08_Code_final
+3845_09_Code_final
+3845_10_code_final
+3845_11_Code_final
+3845-images in code for chp 10
+3845-images in code for chp 6
+3845-images in code for chp 7
+3845-images in code for chp 9
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_01_Code_final:
+simple_line_1.py
+simplest_1.py
+simplest_2.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_02_Code_final:
+3arc_ellipses.py
+3concentric_squares.py
+3rectangles.py
+4color_text.py
+4lines.py
+align_text_2.py
+arc_circle.py
+circle_1.py
+clone_stars.py
+curved_bend.py
+dashed_line.py
+fonts_available.py
+line_1.py
+rectangle.py
+sharp_bend.py
+shifted_star.py
+star_polygon.py
+text_1.py
+triangle_polygon.py
+vine_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_03_Code_final:
+4color_text.py
+align_text_1.py
+align_text_2.py
+anchor_align_text_1.py
+fonts_available.py
+justify_align_text_1.py
+text_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_04_Code_final:
+bounce_ball_1.py
+floating_point_collisions_1.py
+gravity_ball_1.py
+kinetic_gravity_balls_1.py
+moveball_1.py
+move_erase_cycle_1.py
+multiple_line_rotations_1.py
+rotate_line_1.py
+timed_moveball_1.py
+two_balls_moving_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_05_Code_final:
+animated_color_wheel_1.py
+color_arithmetic_1.py
+color_mixer_1.py
+color_picker_1.py
+primary_color_wheel_1.py
+red_beachball_1.py
+red_beachball_1.py~
+red_color_segment_1.py
+systematicColorNames_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_06_Code_final:
+image_blend_1.py
+image_blend_2.py
+image_color_adjuster_1.py
+image_color_manip_1.py
+image_composite_1.py
+image_flips_1.py
+image_getattributes_1.py
+image_get_green_1.py
+image_jpg2png_1.py
+image_offset_1.py
+image_one2another_1.py
+image_pileof_filters_1.py
+image_preserved_aspect_resize_1.py
+image_resize_1.py
+image_rotate_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_07_Code_final:
+endless_passing_show_1.py
+passing_cloudscape_1.py
+passing_show_1.py
+photo_image_animation_1.py
+walker_spider_1.py
+walking_birdy_1.py
+walking_creature_1.py
+walking_toff_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_08_Code_final:
+all_mouse_actions_1.py
+file_append_1.py
+file_make_1.py
+file_write_1.py
+file_write_2.py
+mouseclick_1.py
+mouse_shape_editor_1.py
+mouse_shape_recorder_1.py
+retrieve_curley_vine_1.py
+save_curley_vine_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_09_Code_final:
+commas_for_spaces_svg2tkinter_1.py
+table_glass_vase_1.JPG
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_10_code_final:
+alert_D.gif
+blueeye_D.gif
+button_1.py
+button_array_1.py
+button_focus_1.py
+button_interaction_1.py
+button_message_1.py
+dropdown_1.py
+earth_D.gif
+earth.gif
+entry_box_1.py
+eye_D.gif
+fireman_1.gif
+galaxy_D.gif
+go_on.gif
+image_button_1.py
+listbox_simple_1.py
+random_2_D.gif
+random_3_D.gif
+smile_D.gif
+text_in_window_1.py
+Usbkey_D.gif
+vine_D.gif
+widget_configuration_1.py
+winged_lion.gif
+winglion_D.gif
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845_11_Code_final:
+checkbox_1.py
+checkbox_1.py~
+frame_1.py
+frame_1.py~
+grid_button_array_1.py
+keypress_1.py
+keypress_1.py~
+mini_3slider_gadget_1.py
+mini_3slider_gadget_1.py~
+pack_button_array_1.py
+radio_1.py
+scrollbar_1.py
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845-images in code for chp 10:
+alert_D.gif
+blueeye_D.gif
+earth_D.gif
+earth.gif
+eye_D.gif
+fireman_1.gif
+galaxy_D.gif
+go_on.gif
+random_2_D.gif
+random_3_D.gif
+smile_D.gif
+Usbkey_D.gif
+vine_D.gif
+winged_lion.gif
+winglion_D.gif
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845-images in code for chp 6:
+100_canary.png
+100_cockcrow.png
+100_sun_1.png
+blank.png
+canary_a.jpg
+dusi_leo_1.jpg
+dusi_leo.png
+dusi_leo_smlr_1.jpg
+fiery_2.png
+lion_ramp_2.png
+russian_doll.png
+test_pattern_1.jpg
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845-images in code for chp 7:
+ambassador.gif
+apteryx1.gif
+apteryx1.png
+beachball.gif
+blue_vase.gif
+brass_vase.gif
+continuous_clouds_panorama.gif
+glass_vase.gif
+jungle_strip_1.gif
+karoo.gif
+red_vase.gif
+shoe1.gif
+toff_bg.gif
+toff_shoe.gif
+yellow_airplane_2.gif
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_Graphics_DATA/3845-images in code for chp 9:
+table_glass_vase_1.JPG
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_GUI_Development_Tkinter_2014:
+00. Introduction
+01. Getting Started with Python and Tkinter
+02. Tkinter Concepts
+03. Basic Widgets
+04. Organizational Widgets
+05. Advanced Widgets
+06. Geometry Management
+07. Event Handling
+08. Building an Application
+Exercise Files.zip
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_GUI_Development_Tkinter_2014/00. Introduction:
+00_01-welcome.mp4
+00_02-prerequisites.mp4
+00_03-exercisefiles.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_GUI_Development_Tkinter_2014/01. Getting Started with Python and Tkinter:
+01_01-windows_install.mp4
+01_02-mac_install.mp4
+01_03-hello.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_GUI_Development_Tkinter_2014/02. Tkinter Concepts:
+02_01-background.mp4
+02_02-widgets.mp4
+02_03-geometry.mp4
+02_04-events.mp4
+02_05-revisit.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_GUI_Development_Tkinter_2014/03. Basic Widgets:
+03_01-label.mp4
+03_02-button.mp4
+03_03-selection_buttons.mp4
+03_04-entry.mp4
+03_05-selection_boxse.mp4
+03_06-progressbar.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_GUI_Development_Tkinter_2014/04. Organizational Widgets:
+04_01-frame.mp4
+04_02-toplevel.mp4
+04_03-panedwindow.mp4
+04_04-notebook.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_GUI_Development_Tkinter_2014/05. Advanced Widgets:
+05_01-text.mp4
+05_02-text_advanced.mp4
+05_03-treeview.mp4
+05_04-treeview_advanced.mp4
+05_05-menu.mp4
+05_06-canvas.mp4
+05_07-canvas_advanced.mp4
+05_08-scrollbar.mp4
+05_09-style.mp4
+05_10-dialog.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_GUI_Development_Tkinter_2014/06. Geometry Management:
+06_01-pack.mp4
+06_02-grid.mp4
+06_03-place.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_GUI_Development_Tkinter_2014/07. Event Handling:
+07_01-callback.mp4
+07_02-keyboard.mp4
+07_03-mouse.mp4
+07_04-virtual.mp4
+07_05-multiple.mp4
+
+../Desktop/Libros_TODOS/PPP_libros/Python_Libros_feb0323/Python_GUI_Development_Tkinter_2014/08. Building an Application:
+08_01-requirements.mp4
+08_02-design.mp4
+08_03-widgets.mp4
+08_04-layout.mp4
+08_05-events.mp4
+08_06-style.mp4

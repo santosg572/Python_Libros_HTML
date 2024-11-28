@@ -11,5 +11,5 @@ then
   echo ${pat}":" > "${file}.txt"
   ls -1R ${pat} >> "${file}.txt"
 else
-  echo "utiliza dos parametros: directorio, nombre archivo escritura"
+  echo "utiliza dos parametros: 1) directorio entrada, 2) nombre archivo de salida"
 fi
