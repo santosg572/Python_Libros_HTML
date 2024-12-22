@@ -1,47 +1,26 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-import sys
-
-file_nom = sys.argv[1]
-print(file_nom)
-
-f = open(file_nom+'.txt', "r")
-files = f.readlines()
-
-nf = len(files)
-print(' numero de lineas para procesar: ', nf)
-
-file1 = open(file_nom+'.html',"w")
-
-
-t1 = '''<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>A simple HTML document</title>
-</head>
+dd = '''
+<!DOCTYPE html>
+<html>
 <body>
-'''
 
-file1.writelines(t1)
+<h1>My First Heading</h1>
 
-pref = "ART-"
-n = 1
-for fil in files:
-   fil = fil.replace('\n','')
-   if len(fil) > 0:
-     t2 = str(n)+' - '+'<a href="' + fil  +'">' + pref + str(n) + '</a>'
-     file1.write(t2)
-     file1.write('<br>')
-     file1.write('\n')
-     n = n+1
+<p>My first paragraph.</p>
 
-t3 = '''
 </body>
 </html>
 '''
 
-file1.writelines(t3)
+file = open('hoy.html', 'w')
+
+dd = dd.split('\n')
+
+for ff in dd:
+ file.write(ff)
+
+file.close()
 
 
-file1.close()
+
+
+

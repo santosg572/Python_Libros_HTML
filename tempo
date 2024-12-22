@@ -1,0 +1,280 @@
+1 Introduction                          . 1
+1.1 What is a Model?                      . 1
+1.1.1 A Simple Example: Zooplankton Energy Balance     . 3
+1.2 Why Do We Need Models?                  5
+1.2.1 Models as Analysing Tools               5
+1.2.2 Models as Interpolation, Extrapolation, and Budgeting Tools 7
+1.2.3 Models to Quantify Immeasurable Processes       . 9
+1.2.4 Model Prediction as a Management Tool         . 10
+1.3 Modelling Steps and Ingredients                10
+1.4 The Modeller’s Toolkit                    13
+2 Model Formulation                       . 15
+2.1 Conceptual Model                      15
+2.1.1 The Balance Equation of a State Variable         17
+2.1.2 Example: Conceptual Model of a Lake Ecosystem     . 19
+2.1.3 Conservation of Mass and Energy as a Consistency Check  21
+2.1.4 Dimensional Homogeneity and Consistency of Units   . 23
+2.2 Mathematical Formulations                  24
+2.3 Formulation of Chemical Reactions              . 25
+2.3.1 The Law of Mass Action                25
+2.3.2 Example: A Simple Chemical Reaction          26
+2.4 Enzymatic Reactions                     27
+2.5 Basic Formulation of Ecological Interactions           28
+2.5.1 Example: Flows to and from Phytoplankton
+in the Lake Ecosystem                . 28
+2.5.2 Maximal Interaction Strength, Rate Limitation
+and Inhibition                    . 31
+2.5.3 One Rate-Limiting Resource, 3 Types
+of Functional Responses                35
+2.5.4 More than One Limiting Resource            37
+2.5.5 Inhibition Terms                   . 38
+2.6 Coupled Model Equations                  . 40
+2.6.1 Flows Modelled as Fractions of Other Flows       . 41
+ix
+x Contents
+2.6.2 Coupled Dynamics of Source and Sink Compartments   . 42
+2.6.3 Stoichiometry and Coupling of Element Cycles      . 43
+2.7 Model Simplifications                    . 44
+2.7.1 Carrying Capacity Formulation             . 45
+2.7.2 Closure Terms at the Highest Trophic Level        48
+2.7.3 Simplification by Deletion of Intermediate Levels     . 48
+2.8 Impact of Physical Conditions                 49
+2.8.1 Temperature                     49
+2.8.2 Light                        . 50
+2.8.3 Other Physical Impacts                . 53
+2.9 Examples                         . 54
+2.9.1 NPZD, a Simple Ecosystem Model for Aquatic Environments 54
+2.9.2 AQUAPHY, a Physiological Model of Unbalanced
+Algal Growth (**)                  . 58
+2.10 Case Studies in R                      . 63
+2.10.1 Making Sense Out of Mathematical Formulations     . 63
+2.10.2 One Formula, Several Parameter Values         . 64
+2.11 Projects                          . 65
+2.11.1 Conceptual Model: Lake Eutrophication         . 65
+2.11.2 Model Formulation: Nutrient-Limited Batch Culture    . 66
+2.11.3 Model Formulation: Detritus Degradation         67
+2.11.4 Model Formulation: An Autocatalytic Reaction      . 69
+3 Spatial Components and Transport                71
+3.1 Microscopic and Macroscopic Models             . 72
+3.2 Representing Space in Models                 74
+3.2.1 Spatial Dimensions                  . 74
+3.2.2 Discrete Spatial Models                . 74
+3.2.3 Continuous Spatial Models               76
+3.3 Transport in a Zero-Dimensional Model             77
+3.4 Transport in a One-Dimensional Model             79
+3.4.1 Flux Divergence                   . 80
+3.4.2 Macroscopic Formulation of Fluxes:
+Advection and Dispersion               82
+3.4.3 The General 1-D Advection-Dispersion-Reaction Equation . 84
+3.4.4 The 1-D Advection-Dispersion-Reaction Equation
+in Estuaries, Rivers and Lakes             . 85
+3.4.5 The 1-D Advection-Dispersion-Reaction Equation
+in Shapes with Different Symmetries          . 86
+3.4.6 One-dimensional Diffusion in Porous Media (Sediments) (∗∗) 89
+3.4.7 The 3-D Advection-Dispersion-Reaction Equation (∗)    92
+3.5 Boundary Conditions in Spatially Explicit Models        . 92
+3.5.1 Boundary Conditions in Discrete Models         94
+3.5.2 Boundary Conditions in Continuous Models        95
+3.5.3 Boundary Conditions in Multi-layered Models (∗∗)     98
+Contents xi
+3.6 Case Studies in R                      . 102
+3.6.1 An Autocatalytic Reaction in a Flow-Through Stirred Tank . 102
+3.6.2 A 1-D Microscopic and Macroscopic Model of Diffusion  . 103
+3.6.3 Cellular Automaton Model of Diffusion (∗∗)        107
+3.6.4 Competition in a Lattice Grid              110
+3.6.5 Transport and Reaction in Porous Media:
+Silicate Diagenesis                  114
+4 Parameterization                        . 117
+4.1 In Situ Measurement                     117
+4.2 Literature-Derived Parameters                 118
+4.3 Calibration                         119
+4.3.1 Linear Regression                   120
+4.3.2 Nonlinear Fitting                   122
+4.4 Case Studies in R                      . 123
+4.4.1 Nonlinear Parameter Estimation: P-I Curve        . 123
+4.4.2 Linear Versus Non-Linear Parameter Estimation:
+Sediment Bioturbation                . 125
+4.4.3 Pseudo-Random Search, a Random-Based
+Minimization Routine                 128
+4.4.4 Calibration of a Simple Model             . 132
+5 Model Solution – Analytical Methods               . 139
+5.1 An Everyday Life Example                  139
+5.2 Finding an Analytical Solution                 140
+5.3 Examples                         . 141
+5.3.1 A Very Simple First-Order Differential Equation      141
+5.3.2 The Logistic Equation                 143
+5.3.3 A Second-Order Differential Equation: Carbon
+Dynamics in Sediments (∗)               144
+5.3.4 Coupled BOD and Oxygen Equations (∗)         146
+5.3.5 Multilayer Differential Equations (∗∗)          . 147
+5.4 Case Studies in R                      . 150
+5.4.1 Transient Dispersion-Reaction in One Dimension     . 150
+5.4.2 Transient Diffusion-Reaction on a 2-Dimensional Surface  151
+5.4.3 Steady-State Oxygen Budget in Small Organisms
+Living in Suboxic Conditions             . 152
+5.4.4 Analytical Solution of the Non-Local Exchange
+Sediment Model (∗∗∗)                 158
+5.5 Projects                          . 161
+5.5.1 Organic Matter Sinking Through a Water Column     . 161
+5.5.2 Oxygen Dynamics in the Sediment            162
+5.5.3 Carbon Dynamics in the Sediment            164
+xii Contents
+6 Model Solution –Numerical Methods               . 165
+6.1 Taylor Expansion                      . 165
+6.2 Numerical Approximation and Numerical Errors         167
+6.3 Numerical Integration in Time – Basics             169
+6.3.1 Euler Integration                   . 170
+6.3.2 Criteria for Numerical Integration            171
+6.3.3 Interpolation Methods – 4th Order Runge-Kutta (**)    173
+6.3.4 Flexible Time Step Methods –5th Order Runge-Kutta (**)  174
+6.3.5 Implicit and Semi-Implicit Integration Routines (**)    . 174
+6.3.6 Which Integrator to Choose?              . 175
+6.4 Approximating Spatial Derivatives (*)             . 176
+6.4.1 Approximating the Flux Divergence Equation       176
+6.4.2 Approximating Dispersion               . 177
+6.4.3 Approximating Advection               . 178
+6.4.4 The Boundaries with the External World         . 179
+6.5 Numerical Dispersion (∗∗ ∗)                 . 180
+6.5.1 Example: Sediment Model               182
+6.6 Case Studies in R                      . 183
+6.6.1 Implementing the Enzymatic Reaction Model       184
+6.6.2 Growth of a Daphnia Individual             188
+6.6.3 Zero-Dimensional Estuarine Zooplankton Model      195
+6.6.4 Aphids on a Row of Plants: Numerical Solution
+of a Dispersion-Reaction Model            . 197
+6.6.5 Fate of Marine Zooplankton in an Estuary (∗ ∗ ∗)     . 200
+6.7 Projects                          . 206
+6.7.1 Numerical Solution of the Autocatalytic Reaction
+in a Flow-Through Stirred Tank             206
+6.7.2 Numerical Solution of a Nutrient-Algae Chemostat
+Model – Euler Integration               207
+6.7.3 Rain of Organic Matter in the Ocean: Numerical Solution
+of the Advection-Reaction Model            209
+6.7.4 AQUAPHY Model Implementation           . 209
+7 Stability and Steady-State                    . 211
+7.1 Basics                           211
+7.2 Stability of One First-Order Differential Equation         213
+7.2.1 Equilibrium Points, Stability, Domain of Attraction     213
+7.2.2 Multiple Steady States                 215
+7.2.3 Bifurcation                      216
+7.3 Stability of Two Differential Equations – Phase-Plane Analysis   218
+7.3.1 Example. The Lotka-Volterra Predator-Prey Equation    220
+7.4 Multiple Equations                     . 224
+7.5 Steady-State Solution of Differential Equations (∗)        . 224
+7.5.1 Direct Root Finding: Analytical Solution         225
+7.5.2 Iterative Root Finding                 225
+Contents xiii
+7.5.3 From Partial to Ordinary Differential Equations      . 225
+7.6 Formal Analysis of Stability (∗∗)                226
+7.7 Limit Cycles (∗∗∗)                      231
+7.8 Case Studies in R                      . 232
+7.8.1 Multiple Stable States: the Spruce Budworm Model    . 232
+7.8.2 Phase-Plane Analysis: The Lotka-Volterra Competition
+Equations                      237
+7.8.3 The Lorenz Equations – Chaos             . 242
+7.8.4 Steady-State Solution of the Silicate Diagenetic Model (∗∗) . 243
+7.8.5 Fate of Marine Zooplankton in an Estuary – Equilibrium
+Condition (∗∗)                    248
+7.9 Projects                          . 250
+7.9.1 The Schaefer Model of Fisheries            . 250
+7.9.2 A Fisheries Model with Allee Effect           252
+7.9.3 Ecological-Economical Fisheries Model         . 253
+7.9.4 Predator-Prey System with Type-II Functional Response  . 254
+7.9.5 Succession of Nutrients, Phytoplankton and Zooplankton
+in a River                      254
+8 Multiple Time Scales and Equilibrium Processes          . 257
+8.1 Simple Chemical Equilibrium Calculation: Ammonia
+and Ammonium                       258
+8.2 Chemical Equilibrium Combined with a Slow Reaction Process   259
+8.3 General Approach to Equilibrium Reformulation         261
+8.3.1 Enzymatic Equilibrium in a Slow Reaction Process:
+The Michaelis-Menten Equation (∗∗)          . 261
+8.3.2 Equilibrium Adsorption in Porous Media (∗∗)       . 264
+8.4 Examples in R                       . 267
+8.4.1 Solving pH in Aquatic Systems             267
+8.4.2 A Model of pH Changes Due to Algal Growth (∗∗)     269
+9 Discrete Time Models                      . 273
+9.1 Difference Equations                     274
+9.2 Discrete Logistic Models                   275
+9.3 Host-Parasitoid Interactions                 . 276
+9.4 Dynamic Matrix Models                   . 278
+9.4.1 Example: Age Structured Population Model        278
+9.4.2 Matrix Notation                   . 280
+9.4.3 Stable Age Distribution and Rate of Increase       . 281
+9.4.4 The Reproductive Value                . 282
+9.5 Case Studies in R                      . 283
+9.5.1 Bifurcations in the Discrete Logistic Model        283
+9.5.2 Bifurcations in the Host-Parasitoid Model         283
+9.5.3 Attractors in the Host-Parasitoid Model          285
+9.5.4 Population Dynamics of Teasel             . 287
+xiv Contents
+9.6 Projects                          . 292
+9.6.1 Bifurcation of the Logistic Map             292
+9.6.2 Equilibrium Dynamics of a Simple Age-Class Matrix Model 292
+9.6.3 Equilibrium Dynamics of a US Population        . 292
+10 Dynamic Programming                     . 295
+10.1 Sequential Decisions                     296
+10.2 Finding the Optimal Solution                 . 296
+10.3 A Simple Example                      297
+10.4 Case Study in R: The Patch-Selection Model           301
+11 Testing and Validating the Model                 309
+11.1 Coupled BOD-O2 Model Revisited               309
+11.2 Testing the Correctness of the Model Solution          . 310
+11.3 Testing the Internal Logic of the Model             312
+11.4 Model Verification and Validity                . 313
+11.5 Model Sensitivity                      . 314
+11.6 Case Studies in R                      . 315
+11.6.1 Time-Varying Oxygen Consumption in a Small Cylindrical
+Organism                      315
+11.6.2 R for Validation and Verification             319
+11.6.3 Univariate Local Sensitivity Analysis          . 319
+11.6.4 Bivariate Local Sensitivity Analysis           . 325
+12 Further Reading and References                 . 329
+12.1 Model Formulations                     329
+12.2 Spatial Pattern                       . 330
+12.3 Parameterization                      . 331
+12.4 Model Solution                       331
+12.5 Stability and Equilibrium Analysis               332
+12.6 Discrete Time and Dynamic Programming Models        . 332
+Appendix A About R                        . 335
+A.1 Installing R                         335
+A.2 A Very Short Introduction                   336
+A.2.1 Console Versus Scripts                 336
+A.2.2 Getting Help                     337
+A.2.3 Vectors and Matrices                 . 337
+A.2.4 More Complex Data Structures             . 339
+A.2.5 User-defined Functions and Programming         340
+A.2.6 R Packages                     . 341
+A.2.7 Graphics                       341
+A.2.8 Minor Things to Remember              . 342
+A.3 Interfacing R with Low-Level Languages: The Competition
+in a Lattice Grid Model Revisited               . 343
+Contents xv
+Appendix B Derivatives and Differential Equations           347
+B.1 Derivatives                         347
+B.2 Taxonomy of Differential Equations              . 348
+B.3 General Solutions of Often Used Differential Equations      . 349
+B.3.1 Simple Time-Dependent Equations           . 349
+B.3.2 Steady-State Transport – Reaction in 1-D, Constant Surface . 350
+B.3.3 Steady-State Transport – Reaction in 1-D, Cylindrical
+Coordinates                     350
+B.3.4 Steady-State Transport – Reaction in 1-D, Spherical
+Coordinates                     351
+B.4 Particular Solutions of Dynamic Diffusion-Reaction Equation   . 351
+B.5 Derivatives and Integrals                   . 352
+Appendix C Matrix Algebra                     . 353
+C.1 Matrices                          353
+C.2 Linear Equations                      . 354
+C.3 Eigenvalues and Eigenvectors, Determinants           355
+C.4 R-Examples                        . 355
+C.5 The Jacobian Matrix                     357
+Appendix D Statistical Distributions                  359
+D.1 Probability Distribution                    359
+D.2 Normal Distribution                     . 359
+D.3 The Poisson Distribution                   . 360
+References                             . 361
+Index                               . 367
+Chapter 1
+Introduction
+The natural environment, with all the physical, chemical and b
+

@@ -1,0 +1,42 @@
+nov0924 - 6:00
+
+=======================================================
+LIBROS_TODOS.sh
+ListaDirectorios.py
+ListaTODOSDirectorios.py
+Procesa_paginas_drive.py
+README.md
+R_cuarto.txt
+R_cuarto_O.html
+R_cuarto_O.txt
+__pycache__
+arg.sh
+argumen.py
+checa.py
+com.py
+com.sh
+creaHTML.py			BIEN
+crea_HTML_fromFile.py
+crea_Lista_Archivos.old
+crea_Lista_Archivos.py		BIEN
+dd
+direc_RRR_cuarto.py		BIEN
+doc.txt				BIEN
+funcionesLinux.py
+funciones_linux.py
+pipa.sh
+pp.md
+procesaTexo.py
+procesa_dir_Desktop.py
+procesa_puntos.sh		BIEN
+prog_saca_lista.sh		BIEN
+pru01.md
+saca_lista.sh
+saca_pat_de_RRR_cuarto.py	BIEN
+ss
+ss.sh
+sube_git.sh
+tempo
+tempo2				BIEN
+texto_punto.py
+www.dat
