@@ -1,0 +1,7 @@
+procesa_TODOS.sh
+saca_lista.sh		directorio nombre-salida.txt
+pipa.sh
+del_archivos.sh
+copiar.sh
+
+
