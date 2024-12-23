@@ -4,7 +4,7 @@ x=(a b c d e f g h i j k l m n o p q r s t u v w x y z A B C D E F G H I J K L M
 
 for pref in "${x[@]}"
 do 
-  mv  $pref*".html" LIBROS_TODOS_Toribio/.
+  mv  $pref*".html" Libros_USB_LOLA/.
 done
 
 
