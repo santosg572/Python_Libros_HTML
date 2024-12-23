@@ -1,8 +1,8 @@
 #!/bin/bash
 
-pat="/Volumes/LUPITA"
+pat=$1
 
-file="Libros_feb0122"
+file=$2
 
 ./saca_lista.sh "${pat}" "${file}"
 
